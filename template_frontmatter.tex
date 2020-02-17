@@ -1,0 +1,228 @@
+%
+%
+% UCSD Doctoral Dissertation Template
+% -----------------------------------
+% http://ucsd-thesis.googlecode.com
+%
+%
+
+
+%% REQUIRED FIELDS -- Replace with the values appropriate to you
+
+% No symbols, formulas, superscripts, or Greek letters are allowed
+% in your title.
+\title{Study of Human Muscle Structure and Function with Velocity Encoded Phase Contrast and Diffusion Tensor Magnetic Resonance Imaging Techniques}
+
+\author{Vadim Malis}
+\degreeyear{\the\year}
+
+% Master's Degree theses will NOT be formatted properly with this file.
+\degreetitle{Doctor of Philosophy}
+
+\field{Physics}
+%\specialization{Anthropogeny}  % If you have a specialization, add it here
+
+\chair{Professor Shantanu Sinha}
+% Uncomment the next line iff you have a Co-Chair
+\cochair{Professor Henry Abarbanel}
+%
+% Or, uncomment the next line iff you have two equal Co-Chairs.
+%\cochairs{Professor Chair Masterish}{Professor Chair Masterish}
+
+%  The rest of the committee members  must be alphabetized by last name.
+\othermembers{
+Professor Jiang Du\\
+Professor Alexander Groisman\\
+Professor Elena Koslover\\
+Professor Usha Sinha
+}
+\numberofmembers{5} % |chair| + |cochair| + |othermembers|
+
+
+%% START THE FRONTMATTER
+%
+\begin{frontmatter}
+
+%% TITLE PAGES
+%
+%  This command generates the title, copyright, and signature pages.
+%
+\makefrontmatter
+
+%% DEDICATION
+%
+%  You have three choices here:
+%    1. Use the ``dedication'' environment.
+%       Put in the text you want, and everything will be formated for
+%       you. You'll get a perfectly respectable dedication page.
+%
+%
+%    2. Use the ``mydedication'' environment.  If you don't like the
+%       formatting of option 1, use this environment and format things
+%       however you wish.
+%
+%    3. If you don't want a dedication, it's not required.
+%
+%
+\begin{dedication}
+\end{dedication}
+
+
+% \begin{mydedication} % You are responsible for formatting here.
+%   \vspace{1in}
+%   \begin{flushleft}
+% 	To me.
+%   \end{flushleft}
+%
+%   \vspace{2in}
+%   \begin{center}
+% 	And you.
+%   \end{center}
+%
+%   \vspace{2in}
+%   \begin{flushright}
+% 	Which equals us.
+%   \end{flushright}
+% \end{mydedication}
+
+
+
+%% EPIGRAPH
+%
+%  The same choices that applied to the dedication apply here.
+%
+\begin{epigraph} % The style file will position the text for you.
+  \emph{It was eerie. I saw myself in that machine.\\
+  I never thought my work would come to this. }\\
+  --- Isidor Isaac Rabi
+\end{epigraph}
+
+% \begin{myepigraph} % You position the text yourself.
+%   \vfil
+%   \begin{center}
+%     {\bf Think! It ain't illegal yet.}
+%
+% 	\emph{---George Clinton}
+%   \end{center}
+% \end{myepigraph}
+
+
+%% SETUP THE TABLE OF CONTENTS
+%
+\tableofcontents
+\listoffigures  % Comment if you don't have any figures
+\listoftables   % Comment if you don't have any tables
+
+
+
+%% ACKNOWLEDGEMENTS
+%
+%  While technically optional, you probably have someone to thank.
+%  Also, a paragraph acknowledging all coauthors and publishers (if
+%  you have any) is required in the acknowledgements page and as the
+%  last paragraph of text at the end of each respective chapter. See
+%  the OGS Formatting Manual for more information.
+%
+\begin{acknowledgements}
+
+Section~\ref{sec: SR_ULLS} is a reprint of material, with minor edits as it appears in: V.~Malis, U.~Sinha, R.~Csapo, M.~Narici, and S.~Sinha, ``Relationship of changes in strain rate indices estimated from velocity-encoded MR imaging to loss of muscle force following disuse atrophy,'' \emph{Magn. Reson. Med.}, vol. 79, no. 2, pp. 912-922, Feb. 2018.
+%-new paragraph-%
+
+%-new paragraph-%
+Section~\ref{sec: SR_SHEAR} is a reprint of material, with minor edits as it appears in: U.~Sinha, V.~Malis, R.~Csapo, M.~Narici, and S.~Sinha, ``Shear strain rate from phase contrast velocity encoded MRI: Application to study effects of aging in the medial gastrocnemius muscle,'' \emph{J. Magn. Reson. Imaging}, vol. 48, no. 5, pp. 1351-1357, Nov. 2018.
+%-new paragraph-%
+
+%-new paragraph-%
+Section~\ref{sec: CS_paper} is a reprint of material, with minor edits as it appears in: V.~Malis, U.~Sinha, and S.~Sinha, ``Compressed sensing velocity encoded phase contrast imaging: Monitoring skeletal muscle kinematics,'' \emph{Magn. Reson. Med.}, Dec. 2019.
+%-new paragraph-%
+
+%-new paragraph-%
+Section~\ref{sec: CS_SRYO} is a reprint of material, with minor edits as it appears in: V.~Malis, U.~Sinha, and S.~Sinha, ``Principal Axis and Fiber Aligned 3D Strain / Strain Rate Mapping with Compressed Sensing Velocity Encoded Phase Contrast MRI to study Aging Muscle,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Sydney, 2020.
+%-new paragraph-%
+
+%-new paragraph-%
+Section~\ref{sec: DTI ULLS} is a reprint of material, with additional details provided in subsection~\ref{subsec: bicompart}, as it appears in: V.~Malis, U.~Sinha, R.~Csapo, M.~Narici, E.~Smitaman, and S.~Sinha, ``Diffusion tensor imaging and diffusion modeling: Application to monitoring changes in the medial gastrocnemius in disuse atrophy induced by unilateral limb suspension,'' \emph{J. Magn. Reson. Imaging}, vol. 49, no. 6, pp. 1655-1664, Dec. 2018.
+%-new paragraph-%
+
+%-new paragraph-%
+Section~\ref{sec: STEAM RPBM} is a reprint of material, with additional details, as it appears in: V.~Malis, S.~Sinha, E.~Smitaman, and U.~Sinha, ``Skeletal Muscle Diffusion Modeling to Identify Age Related Remodeling of Muscle Microstructure,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Sydney, 2020.
+%-new paragraph-%
+
+%-new paragraph-%
+The author of the dissertation was the primary author of these papers and abstracts.
+\end{acknowledgements}
+
+
+%% VITA
+%
+%  A brief vita is required in a doctoral thesis. See the OGS
+%  Formatting Manual for more information.
+%
+\begin{vitapage}
+\begin{vita}
+  \item[2020] Ph.~D. in Physics, University of California, San Diego
+  \item[2014] M.~S. in Physics, San Diego State University
+  \item[2011] B.~S. in Physics, Moscow State Lomonosov University, Russia
+  \end{vita}
+\begin{publications}
+  \item   V. Malis, U. Sinha, and S. Sinha, ``Compressed sensing velocity encoded phase contrast imaging: Monitoring skeletal muscle kinematics,'' \emph{Magn. Reson. Med.}, Dec. 2019.
+  \item V. Malis, U. Sinha, R. Csapo, M. Narici, E. Smitaman, and S. Sinha, ``Diffusion tensor imaging and diffusion modeling: Application to monitoring changes in the medial gastrocnemius in disuse atrophy induced by unilateral limb suspension,'' \emph{J. Magn. Reson. Imaging}, vol. 49, no. 6, pp. 1655-1664, Dec. 2018.
+  \item U. Sinha, V. Malis, R. Csapo, M. Narici, and S. Sinha, ``Shear strain rate from phase contrast velocity encoded MRI: Application to study effects of aging in the medial gastrocnemius muscle,'' \emph{J. Magn. Reson. Imaging}, vol. 48, no. 5, pp. 1351-1357, Nov. 2018.
+  \item	V. Malis, U. Sinha, R. Csapo, M. Narici, and S. Sinha, ``Relationship of changes in strain rate indices estimated from velocity-encoded MR imaging to loss of muscle force following disuse atrophy,'' \emph{Magn. Reson. Med.}, vol. 79, no. 2, pp. 912-922, Feb. 2018.
+  \item	V. Ugarte, U. Sinha, V. Malis, R. Csapo, and S. Sinha, ``3D multimodal spatial fuzzy segmentation of intramuscular connective and adipose tissue from ultrashort TE MR images of calf muscle,'' \emph{Magn. Reson. Med.}, vol. 77, no. 2, pp. 870-883, Feb. 2017.
+  \item	J.-S. Chen, R. R. Basava, Y. Zhang, R. Csapo, V. Malis, U. Sinha, J. Hodgson, and S. Sinha,``Pixel-based meshfree modelling of skeletal muscles,'' \emph{Comput Methods Biomech Biomed Eng Imaging Vis}, vol. 4, no. 2, pp. 73-85, 2016.
+  \item	R. Csapo, V. Malis, U. Sinha, and S. Sinha, ``Mapping of spatial and temporal heterogeneity of plantar flexor muscle activity during isometric contraction - correlation of Velocity-Encoded MRI with EMG,'' \emph{J. Appl. Physiol.}, vol. 119, no. 5, pp. 558-568, Sep. 2015.
+  \item U. Sinha, V. Malis, R. Csapo, A. Moghadasi, R. Kinugasa, and S. Sinha, ``Age-related differences in strain rate tensor of the medial gastrocnemius muscle during passive plantarflexion and active isometric contraction using velocity encoded MR imaging: potential index of lateral force transmission,'' \emph{Magn. Reson. Med.}, vol. 73, no. 5, pp. 1852-1863, May 2015.
+  \item U. Sinha, R. Csapo, V. Malis, Y. Xue, and S. Sinha, ``Age-related differences in diffusion tensor indices and fiber architecture in the medial and lateral gastrocnemius,'' \emph{J. Magn. Reson. Imaging}, vol. 41, no. 4, pp. 941-953, Apr. 2015.
+  \item R. Csapo, V. Malis, U. Sinha, J. Du, and S. Sinha, ``Age-associated differences in triceps surae muscle composition and strength - an MRI-based cross-sectional comparison of contractile, adipose and connective tissue,'' \emph{BMC Musculoskelet Disord}, vol. 15, no. 1, p. 209, Jun. 2014.
+  \item R. Csapo, V. Malis, J. Hodgson, and S. Sinha, ``Age-related greater Achilles tendon compliance is not associated with larger plantar flexor muscle fascicle strains in senior women,'' \emph{J. Appl. Physiol.}, vol. 116, no. 8, pp. 961-969, Apr. 2014.
+  %\item Your Name, ``A Simple Proof Of The Riemann Hypothesis'', \emph{Annals of Math}, 314, 2007.
+\end{publications}
+
+\begin{talks}	
+	\item V. Malis, U. Sinha, and S. Sinha, ``Principal Axis and Fiber Aligned 3D Strain / Strain Rate Mapping with Compressed Sensing Velocity Encoded Phase Contrast MRI to study Aging Muscle,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Sydney, 2020
+	\item V. Malis, S. Sinha, E. Smitaman, and U. Sinha, ``Skeletal Muscle Diffusion Modeling to Identify Age Related Remodeling of Muscle Microstructure,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Sydney, 2020
+	\item U. Sinha , V. Malis , E. Smitaman, and S. Sinha, ``Short T2 Fraction Mapping of Skeletal Muscle Integrating Ultralow TE (UTE) and MP- IDEAL multiecho data,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Sydney, 2020
+	\item S. Sinha, V. Malis, and U. Sinha, ``Mapping of Muscle Strain Rate at Varying Force Levels of Isometric Contraction, with Compressed-Sensing Velocity-Encoded Phase-Contrast MR Imaging,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Montreal, 2019
+	\item V. Malis, U. Sinha, and S. Sinha, Compressed Sensing Velocity Encoded Phase Contrast Imaging: Monitoring Skeletal Muscle kinematics, \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Montreal, 2019
+	\item V. Malis, U. Sinha, and S. Sinha, ``Permeable Barrier Modeling of Age Induced Changes in the Time Dependent Diffusion Eigenvalues,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Montreal, 2019
+	\item V. Malis, U. Sinha, and S. Sinha, ``Changes in strain tensor resulting from atrophy induced by Unilateral Limb Suspension of the calf muscle,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Montreal, 2019
+	\item U. Sinha, V. Malis, and S. Sinha, ``3D Fiber Aligned Strain Rate: Application to Unilateral Limb Suspension Induced Atrophy,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Paris, 2018
+	\item S. Sinha, U. Sinha, and V. Malis, ``Variation of Strain Rate with Force Output in the Medial Gastrocnemius During Isometric Contractions in Young and Senior Subjects,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Paris, 2018
+	\item S. Sinha, U. Sinha, and V. Malis, ``Variation of Strain Rate with Force Output in the Medial Gastrocnemius During Isometric Contractions in Young and Senior Subjects,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Paris, 2018	
+	\item T. Oda, S. Sinha, and V. Malis, ``Heterogeneity of Quadriceps Muscle Activation during Isometric Contractions as revealed by Velocity Encoded Phase Contrast (VE-PC) Image Mapping,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Honolulu, HI, 2017	
+	\item V. Ugarte, U. Sinha, V. Malis, and S. Sinha, ``Automated segmentation of Intramuscular Connective Tissue (IMCT) from skeletal muscle in presence of artifacts: Application to Changes in IMCT in an Unilateral Limb Suspension Induced Acute Atrophy Model in the Plantarflexors,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Honolulu, HI, 2017
+	\item V. Malis, U. Sinha, R. Csapo, and S. Sinha, ``Age Related Differences in Shear Strain in Medial Gastrocnemius: Implications for Lateral Transmission of Force,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Honolulu, HI, 2017
+	\item U. Sinha, V. Malis, and S. Sinha, ``Two compartmental diffusion model of skeletal muscle: application to aging and chronic limb suspension induced DTI changes in the medial gastrocnemius,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Honolulu, HI, 2017
+	\item V. Malis, U. Sinha, R. Csapo, and S. Sinha, ``Functional Changes in Medial Gastrocnemius from Unilateral Limb Suspension Induced Acute Atrophy: a 2D Strain Rate Study during Isometric Contraction,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Singapore, 2016
+	\item U. Sinha, V. Malis, R. Csapo, and S. Sinha, ``Physiological insights into medial gastrocnemius function during eccentric contraction in normal and in acute atrophy - Quantification of 2D strain rate indices from Velocity Encoded Phase Contrast MR Imaging,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Singapore, 2016
+	\item S. Sinha, V. Malis, R. Csapo, J. Du, and U. Sinha, ``Morphological, Compositional, Fiber Architectural Changes in from Unilateral Limb Suspension Induced Acute Atrophy Model in the Medial Gastrocnemius Muscle,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Singapore, 2016
+	\item Y. Xue, U. Sinha, V. Malis, R. Csapo, and S. Sinha, ``3D Curvature of Medial Gastrocnemius (MG) Muscle Fibers Tracked from Diffusion Tensor Images (DTI): Age Related Differences in 3D fiber curvature,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Singapore, 2016
+	\item V. Malis, U. Sinha, R. Csapo, and S. Sinha, ``3D Shear strain analysis of Medial Gastrocnemius muscle based on Velocity Encoded and Diffusion Tensor Imaging data,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Milan, 2014
+	\item R. Csapo, V. Malis, U. Sinha, J. Du, and S. Sinha, ``Age-associated Changes in Triceps Surae Muscle Composition and Plantarflexor Strength - an MR imaging based Study with Ultra-short Echo-time (UTE) and Fat-Water Quantification of Connective, Adipose and Contractile Tissues,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Milan, 2014
+	\item V.Ugarte, V. Malis, U. Sinha, R. Csapo, and S. Sinha, ``3D Multimodal spatial fuzzy segmentation of intramuscular connective and adipose tissue from ultralow TE MR,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Milan, 2014
+	\item R. Csapo, V. Malis, J. Hodgson, and S. Sinha, ``Phase-contrast MR imaging reveals age-associated differences in plantarflexor fascicle and aponeurosis behavior in isometric contractions,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Milan, 2014
+	\item Yanjie Xue, U. Sinha, V. Malis, R. Csapo, and S. Sinha, ``Changes in the Medial and Lateral Gastrocnemius Fiber Architecture with Age,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Milan, 2014
+	\item U. Sinha, R. Csapo, V. Malis, Y. Xue, and S. Sinha,``Age Related Changes in Diffusion Tensor Indices in the Medial and Lateral Gastrocnemius,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Milan, 2014
+
+\end{talks}
+
+\begin{awards}
+	\item 2017 ISMRM Summa Cum Laude	
+\end{awards}
+
+
+\end{vitapage}
+
+
+%% ABSTRACT
+%
+%  Doctoral dissertation abstracts should not exceed 350 words.
+%   The abstract may continue to a second page if necessary.
+%
+\begin{abstract}
+TBD
+\end{abstract}
+
+
+\end{frontmatter}
