@@ -46,7 +46,7 @@
 \contentsline {figure}{\numberline {5.1}{\ignorespaces Diffusion-weightning gradients in spin-echo and gradient echo pulse sequences}}{122}{figure.caption.92}
 \contentsline {figure}{\numberline {5.2}{\ignorespaces Visual representation of the diffusion tensor in the isotropic and anisotropic cases}}{124}{figure.caption.93}
 \contentsline {figure}{\numberline {5.3}{\ignorespaces Spin-echo diffusion weighted EPI sequence and \textit {k}-space sampling path}}{125}{figure.caption.94}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Spin phase evolution diagram for the pulse sequence with three RF-pulses}}{127}{figure.caption.95}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Spin-phase evolution diagram for the MR pulse sequence with three RF-pulses}}{127}{figure.caption.95}
 \contentsline {figure}{\numberline {5.5}{\ignorespaces Plot of STEAM pulse sequence programmed for GE scanner}}{129}{figure.caption.96}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {6.1}{\ignorespaces The image processing flowchart showing the sequence of steps leading to the extraction of the diffusion tensor indices}}{139}{figure.caption.104}
