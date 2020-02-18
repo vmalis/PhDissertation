@@ -299,7 +299,7 @@ Hard pulse approximation allows the soft pulse to be approximated by a set of ha
 \begin{figure}[!ht]
 \vspace{+0.2cm}
 \centering
-\includegraphics[width=\textwidth]{Figures/SLR.pdf}
+\includegraphics[scale=0.45]{Figures/SLR.pdf}
 \caption[Hard pulse approximation]{Hard pulse approximation.}
 \label{fig:SLR}
 \end{figure}
@@ -403,6 +403,7 @@ Refocus &       ($\bar{M}$, $\bar{M^*}$, 0)            &        $\bar{M}=\bar{M}
 \vspace{-0.2cm}
 \end{table}
 %=========================================================
+
 Although SLR design algorithm accounts for nonlinearity of Bloch equations the procedure should be repeated every time that the flip angle is changed. 
 Among the advantages is the ability to make trade-offs between the parameters of RF-pulse, such as pulse duration, bandwidth, passband and stopband ripple, flip angle.
 %---------------------------------------------------------
@@ -476,6 +477,7 @@ Considering a simple case where gradient along the $x$ axis is introduced, the  
 \end{equation}
 %.........................................................	
 As a result of the spatial linear variation of the magnetic field the precession frequency for the protons will also vary linearly according to Equations~\ref{eq: Quantum Larmor frequency}~and~\ref{eq: Field with gradient}.
+ Protons subject to stronger magnetic field $\mathbf{B}$ precess faster, while those subject to weaker field precess slower~(Figure~\ref{fig: ProtonGradient}). 
 %*********************************************************
 \begin{figure}[!h]
 \vspace{+0.2cm}
@@ -485,8 +487,7 @@ As a result of the spatial linear variation of the magnetic field the precession
 \label{fig: ProtonGradient}
 \end{figure}
 %*********************************************************
- Protons subject to stronger magnetic field $\mathbf{B}$ precess faster, while those subject to weaker field precess slower~(Figure~\ref{fig: ProtonGradient}). 
- More general definition of gradients can be given in form of Jacobian:
+More general definition of gradients can be given in form of Jacobian:
 %.........................................................
 \begin{equation}\label{eq: Gradients}
 	\mathbf{G}(t) = 

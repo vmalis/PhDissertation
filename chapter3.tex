@@ -99,7 +99,7 @@ Figure~\ref{fig: VEPC} shows the VEPC sequence layout, it consists of four block
 \vspace{+0.2cm}
 \centering
 \includegraphics[scale =1]{Figures/VEPC.pdf}
-\caption[VEPC sequence layout]{VEPC sequence layout}
+\caption[Layout of the velocity encoded phase-contrast MR pulse sequence]{Layout of the velocity encoded phase-contrast MR pulse sequence.}
 \label{fig: VEPC}
 \end{sidewaysfigure}
 %*********************************************************
@@ -205,7 +205,7 @@ The orientation that best depicted the fascicles was selected for the Velocity E
 Oblique sagittal slices were obtained with the following acquisition parameters: TE: $\SI{7.7}{\milli\meter}$, TR: $\SI{16.4}{\milli\second}$, NEX: $2$, FA: $\SI{20}{\degree}$, slice thickness: $\SI{5}{\milli\meter}$, gap: 0, FOV: $30 \times 22.5 \; \SI{}{\centi\meter^2}$ (partial phase FOV: $0.75$), $256 \times 192$ acquisition matrix (lower resolution in the phase direction), 4 views per segment (VPS), $5-7$ slices, $22$ phases, $\SI{10}{\centi\meter/\second}$ three directional velocity encoding. 
 This resulted in 72 repetitions [192 (phase encode)$ \times 2$ (averages) $\times 0.75$ (phase FOV))/4 (VPS) $= 72$] for each slice acquisition. 
 The temporal resolution is calculated as: $16.4(\mathrm{TR})\cdot 4(\mathrm{VPS})\cdot 4$(velocity encoding directions)$/2$(view sharing)$= \SI{131}{\micro\second}$. 
-Twenty-two phases were collected within each isometric contraction-relaxation cycle~of~$\sim~\SI{3}{\second}$~($22\cdot \SI{131}{\milli\second} = \SI{2.88}{\second}$). 
+Twenty-two phases were collected within each isometric contraction-relaxation cycle~of $\approx\SI{3}{\second}$~($22\cdot \SI{131}{\milli\second} = \SI{2.88}{\second}$). 
 
 %`````````````````````````````````````````````````````````
 \textit{Force measurements:}
@@ -213,7 +213,7 @@ Twenty-two phases were collected within each isometric contraction-relaxation cy
 MVIC of the plantarflexor muscles was determined for each subject prior to MR imaging.
 For this purpose, the ankle was fixed in a neutral position ($\SI{90}{\degree}$ angle between the axis of the foot and the shank). 
 The best of three trials was used to set the target level of force for subsequent image acquisition (35\% of MVIC). 
-During the subsequent execution of the $\sim~70$ contraction-relaxation cycles, torques were recorded at a sampling frequency of $\SI{200}{\hertz}$ and then averaged over repeated cycles to produce curves of mean force.
+During the subsequent execution of the $\sim70$ contraction-relaxation cycles, torques were recorded at a sampling frequency of $\SI{200}{\hertz}$ and then averaged over repeated cycles to produce curves of mean force.
 
 %`````````````````````````````````````````````````````````
 \textit{Morphological quantification and normalized force of the Triceps Surae (TS) muscles}
@@ -452,6 +452,9 @@ Though normal and shear strain rates (fiber basis or maximum) decreased in the p
 Significant regional differences were observed in the shear strain rate ($SR_{fc}$) ($F(2,12) = 19.924$, $p = 0.004$) with significantly larger shear strain rates in the distal ($p = 0.013$) and middle ($p = 0.009$) as compared to the proximal muscle region. 
 Similar regional differences were seen in $SR_{fc\_\,\mathrm{max}}$ ($F(2,12) = 10.537$, $p = 0.012$) with significantly larger shear strain rates in the distal ($p = 0.041$) and middle ($p = 0.023$) compared to the proximal region. 
 No significant interactions effects of time (pre-post)*region (proximal, middle, distal) were found.
+
+The results of the univariate/multivariable regression analysis for force and for force changes are summarized in Tables~\ref{tab: SR1_3}~and ~\ref{tab: SR1_4}.
+For the univariate analysis, the absolute value of $\beta$ refers to the correlation coefficient for a given predictor and a significant \textit{p-}value ($p < 0.05$) associated with a predictor indicates that the null hypothesis that beta is zero for that variable is rejected.
 %=========================================================
 \begin{landscape}
 \centering
@@ -495,8 +498,6 @@ No significant interactions effects of time (pre-post)*region (proximal, middle,
 \end{table}
 \end{landscape}
 %=========================================================
-The results of the univariate/multivariable regression analysis for force and for force changes are summarized in Tables~\ref{tab: SR1_3}~and ~\ref{tab: SR1_4}.
-For the univariate analysis, the absolute value of $\beta$ refers to the correlation coefficient for a given predictor and a significant \textit{p-}value ($p < 0.05$) associated with a predictor indicates that the null hypothesis that beta is zero for that variable is rejected. 
 For multivariable analysis, the R value is the multiple correlation coefficient and is a measure of the quality of the prediction of force; the value of $0.844$ (Table~\ref{tab: SR1_3}) indicates a good level of prediction.
 The beta values provide a relative weight of each predictor in the multivariable regression and a significant \textit{p-}value ($p < 0.05$) associated with a predictor indicates that the null hypothesis for that variable is rejected. 
 Stepwise multivariable analysis selected $SR_{\mathrm{in-plane}}$, SR-fiber angle and $V_{\mathrm{MG}}$ as significant predictors of force ($R=0.844$, $F=31.257$, $p<0.001$)

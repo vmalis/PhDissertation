@@ -32,7 +32,7 @@
 \contentsline {subsubsection}{Study design}{31}{section*.27}
 \contentsline {subsubsection}{Image analysis}{33}{section*.28}
 \contentsline {subsection}{\numberline {3.2.2}Results}{39}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Discussion and Conclusion}{47}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Discussion and Conclusion}{46}{subsection.3.2.3}
 \contentsline {section}{\numberline {3.3}Shear Strain Rate From Velocity Encoded Phase-Contrast Imaging to Study Effects of Aging in Medial Gastrocnemius Muscle}{53}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Methods}{54}{subsection.3.3.1}
 \contentsline {subsubsection}{Subjects}{54}{section*.41}
