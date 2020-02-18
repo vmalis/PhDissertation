@@ -228,10 +228,10 @@ $n=0$ \quad $I_0 = 0$
 \textbf{end} \\
 \noindent\rule{15cm}{0.4pt}
 \end{samepage}\\
-
+\newpage
 
 %+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-At each iteration Backtracking-Armijo line-search is used since general backtracking line search fails to prevent the step $\tau$ from getting too large relative to the decrease in $f$. 
+At each iteration Backtracking-Armijo line-search is used since general backtracking line search fails to prevent the step $\tau$ from getting too large relative to the decrease~in~$f$. 
 The Armijo-Goldstein condition ($\star$  and $\star \star$ in NCG outline) has a second term on the right-hand side requiring the achieved reduction in $f$ to be at least a fixed fraction $\alpha$ of the reduction promised by the first term of the Taylor series of $f(I_n)$~\cite{Armijo:1966di}. 
 Both parameters $\alpha$ and $\beta \in (0,1)$. 
 Compared to conjugate gradient (CG) method where $f$ is quadratic NCG has a number of choices for $\gamma$ parameter~\cite{Hager:2006wp}. 

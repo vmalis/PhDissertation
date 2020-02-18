@@ -1,0 +1,806 @@
+\begin{thebibliography}{100}
+
+\bibitem{RNIGoodpaster}
+B.~H. Goodpaster, S.~W. Park, T.~B. Harris, S.~B. Kritchevsky, M.~Nevitt, A.~V.
+  Schwartz, E.~M. Simonsick, F.~A. Tylavsky, M.~Visser, and A.~B. Newman,
+  ``{The loss of skeletal muscle strength, mass, and quality in older adults:
+  the health, aging and body composition study},'' {\em The journals of
+  gerontology. Series A, Biological sciences and medical sciences}, vol.~61,
+  pp.~1059--1064, Oct. 2006.
+
+\bibitem{RNIBallak}
+S.~B. Ballak, H.~Degens, A.~de~Haan, and R.~T. Jaspers, ``{Aging related
+  changes in determinants of muscle force generating capacity: a comparison of
+  muscle aging in men and male rodents},'' {\em Ageing research reviews},
+  vol.~14, pp.~43--55, Mar. 2014.
+
+\bibitem{RNIRamaswamy}
+K.~S. Ramaswamy, K.~S. Ramaswamy, M.~L. Palmer, M.~L. Palmer, J.~H. van~der
+  Meulen, J.~H. van~der Meulen, A.~Renoux, A.~Renoux, T.~Y. Kostrominova, T.~Y.
+  Kostrominova, D.~E. Michele, D.~E. Michele, J.~A. Faulkner, and J.~A.
+  Faulkner, ``{Lateral transmission of force is impaired in skeletal muscles of
+  dystrophic mice and very old rats},'' {\em The Journal of Physiology},
+  vol.~589, pp.~1195--1208, Mar. 2011.
+
+\bibitem{RNIZhang}
+C.~Zhang and Y.~Gao, ``{Effects of aging on the lateral transmission of force
+  in rat skeletal muscle},'' {\em Journal of Biomechanics}, vol.~47,
+  pp.~944--948, Mar. 2014.
+
+\bibitem{RNIHughes}
+D.~C. Hughes, G.~R. Marcotte, A.~G. Marshall, D.~W.~D. West, L.~M. Baehr, M.~A.
+  Wallace, P.~M. Saleh, S.~C. Bodine, and K.~Baar, ``{Age-related Differences
+  in Dystrophin: Impact on Force Transfer Proteins, Membrane Integrity, and
+  Neuromuscular Junction Stability},'' {\em The journals of gerontology. Series
+  A, Biological sciences and medical sciences}, vol.~72, pp.~640--648, May
+  2017.
+
+\bibitem{RNIKragstrup}
+T.~W. Kragstrup, M.~Kjaer, and A.~L. Mackey, ``{Structural, biochemical,
+  cellular, and functional changes in skeletal muscle extracellular matrix with
+  aging},'' {\em Scandinavian Journal of Medicine {\&} Science in Sports},
+  vol.~21, pp.~749--757, Aug. 2011.
+
+\bibitem{RNIHuijing}
+P.~A. Huijing, G.~C. Baan, and G.~T. Rebel, ``{Non-myotendinous force
+  transmission in rat extensor digitorum longus muscle},'' {\em Journal of
+  Experimental Biology}, vol.~201, pp.~683--691, Mar. 1998.
+
+\bibitem{Bloch1946}
+F.~Bloch, ``Nuclear induction,'' {\em Phys. Rev.}, vol.~70, pp.~460--474, Oct.
+  1946.
+
+\bibitem{Slichter1990}
+C.~P. Slichter, {\em Principles of Magnetic Resonance}.
+\newblock Springer, Springer-Verlag Berlin Heidelberg, 3rd~ed., 1990.
+
+\bibitem{RNDT24}
+M.~A. Bernstein, K.~F. King, and X.~J. Zhou, {\em {Handbook of MRI Pulse
+  Sequences}}.
+\newblock Elsevier, Sept. 2004.
+
+\bibitem{Brown:2014uy}
+R.~W. Brown, Y.~C.~N. Cheng, E.~M. Haacke, M.~R. Thompson, and R.~Venkatesan,
+  {\em {Magnetic Resonance Imaging}}.
+\newblock Physical Principles and Sequence Design, John Wiley {\&} Sons, 2014.
+
+\bibitem{Hahn}
+E.~L. Hahn, ``{Spin echoes},'' {\em Phys. Rev.}, vol.~80, pp.~580--594, 1950.
+
+\bibitem{Joseph:1998fo}
+P.~M. Joseph, L.~Axel, and M.~O'Donnell, ``{Potential problems with selective
+  pulses in NMR imaging systems},'' {\em Medical physics}, vol.~11,
+  pp.~772--777, June 1998.
+
+\bibitem{Nowogrodzki:2018eb}
+A.~Nowogrodzki, ``{The world{\textquoteright}s strongest MRI machines are
+  pushing human imaging to new limits},'' {\em Nature}, vol.~563, pp.~24--26,
+  Oct. 2018.
+
+\bibitem{Leroux:1990tk}
+P.~Leroux, ``{Method of radio-frequency excitation in an NMR experiment}.'' US
+  Patent Office, 1990.
+
+\bibitem{Pauly:1991ge}
+J.~Pauly, P.~Le~Roux, and D.~Nishimura, ``{Parameter relations for the
+  Shinnar-Le Roux selective excitation pulse design algorithm (NMR imaging)},''
+  {\em IEEE Transactions on Medical Imaging}, vol.~10, no.~1, pp.~53--65, 1991.
+
+\bibitem{1955PhRevJaynes}
+E.~T. Jaynes, ``{Matrix Treatment of Nuclear Induction},'' {\em Physical
+  review}, vol.~98, pp.~1099--1105, May 1955.
+
+\bibitem{Schick:1998hu}
+F.~Schick, J.~Forster, J.~Machann, R.~Kuntz, and C.~D. Claussen, ``{Improved
+  clinical echo-planar MRI using spatial-spectral excitation},'' {\em Journal
+  of Magnetic Resonance Imaging}, vol.~8, pp.~960--967, July 1998.
+
+\bibitem{Block:1997cv}
+W.~Block, J.~Pauly, A.~Kerr, and D.~Nishimura, ``{Consistent fat suppression
+  with compensated spectral-spatial pulses},'' {\em Magnetic Resonance in
+  Medicine}, vol.~38, pp.~198--206, Aug. 1997.
+
+\bibitem{Meyer:1990cv}
+C.~H. Meyer, J.~M. Pauly, A.~Macovski, and D.~G. Nishimura, ``{Simultaneous
+  spatial and spectral selective excitation},'' {\em Magnetic Resonance in
+  Medicine}, vol.~15, pp.~287--304, Aug. 1990.
+
+\bibitem{Tan:2020ht}
+E.~T. Tan, Y.~Hua, E.~W. Fiveland, M.~E. Vermilyea, J.~E. Piel, K.~J. Park,
+  V.~B. Ho, and T.~K.~F. Foo, ``{Peripheral nerve stimulation limits of a high
+  amplitude and slew rate magnetic field gradient coil for neuroimaging},''
+  {\em Magnetic Resonance in Medicine}, vol.~83, pp.~352--366, Jan. 2020.
+
+\bibitem{Ham:1997is}
+C.~L. Ham, J.~M. Engels, G.~T. van~de Wiel, and A.~Machielsen, ``{Peripheral
+  nerve stimulation during MRI: effects of high gradient amplitudes and
+  switching rates},'' {\em Journal of Magnetic Resonance Imaging}, vol.~7,
+  pp.~933--937, Sept. 1997.
+
+\bibitem{Stejskal}
+E.~O. Stejskal and J.~E. Tanner, ``{Spin Diffusion Measurements: Spin Echoes in
+  the Presence of a Time-Dependent Field Gradient},'' {\em The Journal of
+  Chemical Physics}, vol.~42, no.~1, p.~288, 1965.
+
+\bibitem{Morse:1970ux}
+O.~C. Morse and J.~R. Singer, ``{Blood velocity measurements in intact
+  subjects},'' {\em Science (New York, N.Y.)}, vol.~170, pp.~440--441, Oct.
+  1970.
+
+\bibitem{Pelc:1991vr}
+N.~J. Pelc, M.~A. Bernstein, A.~Shimakawa, and G.~H. Glover, ``{Encoding
+  strategies for three-direction phase-contrast MR imaging of flow},'' {\em
+  Journal of Magnetic Resonance Imaging}, vol.~1, pp.~405--413, July 1991.
+
+\bibitem{RNS1}
+S.~C. Bodine, ``{Disuse-induced muscle wasting},'' {\em The international
+  journal of biochemistry {\&} cell biology}, vol.~45, pp.~2200--2208, Oct.
+  2013.
+
+\bibitem{RNS2}
+K.~S. Bongers, D.~K. Fox, S.~D. Kunkel, L.~V. Stebounova, D.~J. Murry, M.~A.
+  Pufall, S.~M. Ebert, M.~C. Dyle, S.~A. Bullard, J.~M. Dierdorff, and C.~M.
+  Adams, ``{Spermine oxidase maintains basal skeletal muscle gene expression
+  and fiber size and is strongly repressed by conditions that cause skeletal
+  muscle atrophy},'' {\em American Journal of Physiology-Endocrinology and
+  Metabolism}, vol.~308, pp.~E144--58, Jan. 2015.
+
+\bibitem{RNS3}
+D.~B. Thomason and F.~W. Booth, ``{Atrophy of the soleus muscle by hindlimb
+  unweighting},'' {\em Journal of Applied Physiology}, vol.~68, pp.~1--12, Jan.
+  1990.
+
+\bibitem{RNS4}
+M.~Narici and P.~Cerretelli, ``{Changes in human muscle architecture in
+  disuse-atrophy evaluated by ultrasound imaging},'' {\em Journal of
+  gravitational physiology : a journal of the International Society for
+  Gravitational Physiology}, vol.~5, pp.~P73--4, July 1998.
+
+\bibitem{RNS5}
+O.~R. Seynnes, C.~N. Maganaris, M.~D. de~Boer, P.~E. di~Prampero, and M.~V.
+  Narici, ``{Early structural adaptations to unloading in the human calf
+  muscles},'' {\em Acta physiologica (Oxford, England)}, vol.~193,
+  pp.~265--274, July 2008.
+
+\bibitem{RNS6}
+R.~Li, M.~V. Narici, R.~M. Erskine, O.~R. Seynnes, J.~Rittweger, R.~Pi{\v s}ot,
+  B.~{\v{S}}imuni{\v c}, and M.~Fl{\"u}ck, ``{Costamere remodeling with muscle
+  loading and unloading in healthy young men},'' vol.~223, pp.~525--536, Nov.
+  2013.
+
+\bibitem{RNS7}
+M.~Narici, M.~Franchi, and C.~Maganaris, ``{Muscle structural assembly and
+  functional consequences},'' {\em Journal of Experimental Biology}, vol.~219,
+  pp.~276--284, Jan. 2016.
+
+\bibitem{RNS8}
+M.~D. de~Boer, C.~N. Maganaris, O.~R. Seynnes, M.~J. Rennie, and M.~V. Narici,
+  ``{Time course of muscular, neural and tendinous adaptations to 23 day
+  unilateral lower-limb suspension in young men},'' {\em The Journal of
+  Physiology}, vol.~583, pp.~1079--1091, Sept. 2007.
+
+\bibitem{RNS9}
+G.~D'Antona, M.~A. Pellegrino, R.~Adami, R.~Rossi, C.~N. Carlizzi, M.~Canepari,
+  B.~Saltin, and R.~Bottinelli, ``{The effect of ageing and immobilization on
+  structure and function of human skeletal muscle fibres},'' {\em The Journal
+  of Physiology}, vol.~552, pp.~499--511, Oct. 2003.
+
+\bibitem{RNS10}
+S.~Trappe, T.~Trappe, P.~Gallagher, M.~Harber, B.~Alkner, and P.~Tesch,
+  ``{Human single muscle fibre function with 84 day bed-rest and resistance
+  exercise},'' {\em The Journal of Physiology}, vol.~557, pp.~501--513, June
+  2004.
+
+\bibitem{RNS12}
+S.~F. Street, ``{Lateral transmission of tension in frog myofibers: a
+  myofibrillar network and transverse cytoskeletal connections are possible
+  transmitters},'' {\em Journal of cellular physiology}, vol.~114,
+  pp.~346--364, Mar. 1983.
+
+\bibitem{RNS13}
+R.~L. Lieber and S.~R. Ward, ``{Cellular mechanisms of tissue fibrosis. 4.
+  Structural and functional consequences of skeletal muscle fibrosis},'' {\em
+  American journal of physiology. Cell physiology}, vol.~305, pp.~C241--52,
+  Aug. 2013.
+
+\bibitem{RNS15}
+B.~Sharafi and S.~S. Blemker, ``{A mathematical model of force transmission
+  from intrafascicularly terminating muscle fibers},'' {\em Journal of
+  Biomechanics}, vol.~44, pp.~2031--2039, July 2011.
+
+\bibitem{RNS16}
+U.~Sinha, V.~Malis, R.~Csapo, A.~Moghadasi, R.~Kinugasa, and S.~Sinha,
+  ``{Age-related differences in strain rate tensor of the medial gastrocnemius
+  muscle during passive plantarflexion and active isometric contraction using
+  velocity encoded MR imaging: potential index of lateral force
+  transmission},'' {\em Magnetic Resonance in Medicine}, vol.~73,
+  pp.~1852--1863, May 2015.
+
+\bibitem{RNS17}
+L.~Brocca, E.~Longa, J.~Cannavino, O.~Seynnes, G.~de~Vito, J.~McPhee,
+  M.~Narici, M.~A. Pellegrino, and R.~Bottinelli, ``{Human skeletal muscle
+  fibre contractile properties and proteomic profile: adaptations to 3~weeks of
+  unilateral lower limb suspension and active recovery},'' {\em The Journal of
+  Physiology}, vol.~593, pp.~5361--5385, Dec. 2015.
+
+\bibitem{RNS18}
+M.~D. de~Boer, A.~Selby, P.~Atherton, K.~Smith, O.~R. Seynnes, C.~N. Maganaris,
+  N.~Maffulli, T.~Movin, M.~V. Narici, and M.~J. Rennie, ``{The temporal
+  responses of protein synthesis, gene expression and cell signalling in human
+  quadriceps muscle and patellar tendon to disuse},'' {\em The Journal of
+  Physiology}, vol.~585, pp.~241--251, Nov. 2007.
+
+\bibitem{RNS19}
+A.~M. Horstman, C.~J. de~Ruiter, N.~T.~L. van Duijnhoven, M.~T.~E. Hopman, and
+  A.~de~Haan, ``{Changes in muscle contractile characteristics and jump height
+  following 24 days of unilateral lower limb suspension},'' vol.~112,
+  pp.~135--144, Jan. 2012.
+
+\bibitem{RNS20}
+E.~C. Clarke, J.~H. Martin, A.~G. d'Entremont, M.~G. Pandy, D.~R. Wilson, and
+  R.~D. Herbert, ``{A non-invasive, 3D, dynamic MRI method for measuring muscle
+  moment arms in vivo: demonstration in the human ankle joint and Achilles
+  tendon},'' {\em Medical engineering {\&} physics}, vol.~37, pp.~93--99, Jan.
+  2015.
+
+\bibitem{RNS21}
+R.~Csapo, V.~Malis, J.~Hodgson, and S.~Sinha, ``{Age-related greater Achilles
+  tendon compliance is not associated with larger plantar flexor muscle
+  fascicle strains in senior women},'' {\em Journal of applied physiology
+  (Bethesda, Md. : 1985)}, vol.~116, pp.~961--969, Apr. 2014.
+
+\bibitem{RNS22}
+J.~Gindre, M.~Takaza, K.~M. Moerman, and C.~K. Simms, ``{A structural model of
+  passive skeletal muscle shows two reinforcement processes in resisting
+  deformation},'' {\em Journal of the mechanical behavior of biomedical
+  materials}, vol.~22, pp.~84--94, 2013.
+
+\bibitem{RNS23}
+H.~Kim, L.~Yoo, A.~Shin, and J.~L. Demer, ``{Determination of poisson ratio of
+  bovine extraocular muscle by computed X-ray tomography},'' {\em BioMed
+  research international}, vol.~2013, p.~197479, 2013.
+
+\bibitem{RNS24}
+D.~D. Shin, J.~A. Hodgson, V.~R. Edgerton, and S.~Sinha, ``{In vivo
+  intramuscular fascicle-aponeuroses dynamics of the human medial gastrocnemius
+  during plantarflexion and dorsiflexion of the foot},'' {\em Journal of
+  applied physiology (Bethesda, Md. : 1985)}, vol.~107, pp.~1276--1284, Oct.
+  2009.
+
+\bibitem{RNS25}
+M.~R. Harwell, E.~N. Rubinstein, W.~S. Hayes, and C.~C. Olds, ``{Summarizing
+  Monte Carlo Results in Methodological Research: The One- and Two-Factor Fixed
+  Effects ANOVA Cases},'' {\em Journal of Educational Statistics}, vol.~17,
+  pp.~315--339, Dec. 1992.
+
+\bibitem{RNS26}
+G.~V. Glass, P.~D. Peckham, and J.~R. Sanders, {\em {Consequences of failure to
+  meet assumptions underlying the fixed effects analyses of variance and
+  covariance}}.
+\newblock 1972.
+
+\bibitem{RNS27}
+L.~M. Lix, J.~C. Keselman, and H.~J. Keselman, ``{Consequences of Assumption
+  Violations Revisited: A Quantitative Review of Alternatives to the One-Way
+  Analysis of Variance "F" Test},'' {\em Review of Educational Research},
+  vol.~66, no.~4, p.~579, 1996.
+
+\bibitem{RNS28}
+J.~A. Hodgson, S.-W. Chi, J.~P. Yang, J.-S. Chen, V.~R. Edgerton, and S.~Sinha,
+  ``{Finite element modeling of passive material influence on the deformation
+  and force output of skeletal muscle},'' {\em Journal of the mechanical
+  behavior of biomedical materials}, vol.~9, pp.~163--183, May 2012.
+
+\bibitem{RNS29}
+G.~Giannelli, A.~De~Marzo, F.~Marinosci, and S.~Antonaci, ``{Matrix
+  metalloproteinase imbalance in muscle disuse atrophy},'' {\em Histology and
+  histopathology}, vol.~20, pp.~99--106, Jan. 2005.
+
+\bibitem{RNS30}
+M.~L. Urso, A.~G. Scrimgeour, Y.-W. Chen, P.~D. Thompson, and P.~M. Clarkson,
+  ``{Analysis of human skeletal muscle after 48 h immobilization reveals
+  alterations in mRNA and protein for extracellular matrix components},'' {\em
+  Journal of Applied Physiology}, vol.~101, pp.~1136--1148, Oct. 2006.
+
+\bibitem{RNS31}
+E.~K. Englund, C.~P. Elder, Q.~Xu, Z.~Ding, and B.~M. Damon, ``{Combined
+  diffusion and strain tensor MRI reveals a heterogeneous, planar pattern of
+  strain development during isometric muscle contraction},'' {\em American
+  journal of physiology. Regulatory, integrative and comparative physiology},
+  vol.~300, pp.~R1079--90, May 2011.
+
+\bibitem{RNS32}
+C.~C. Van~Donkelaar, P.~Willems, A.~Muijtjens, and M.~R. Drost, ``{Skeletal
+  muscle transverse strain during isometric contraction at different
+  lengths},'' {\em Journal of Biomechanics}, vol.~32, no.~8, pp.~755--762,
+  1999.
+
+\bibitem{RNS33}
+R.~J. Bloch, Y.~Capetanaki, A.~O'Neill, P.~Reed, M.~W. Williams, W.~G. Resneck,
+  N.~C. Porter, and J.~A. Ursitti, ``{Costameres: repeating structures at the
+  sarcolemma of skeletal muscle},'' {\em Clinical orthopaedics and related
+  research}, vol.~403, pp.~S203--10, Oct. 2002.
+
+\bibitem{RNS34}
+D.~Gullberg, T.~Velling, L.~Lohikangas, and C.~F. Tiger, ``{Integrins during
+  muscle development and in muscular dystrophies},'' {\em Frontiers in
+  bioscience : a journal and virtual library}, vol.~3, pp.~D1039--50, Oct.
+  1998.
+
+\bibitem{RNS35}
+X.~Zhong, F.~H. Epstein, B.~S. Spottiswoode, and P.~A. Helm, ``{Imaging
+  two-dimensional displacements and strains in skeletal muscle during joint
+  motion by cine DENSE MR},'' {\em Journal of Biomechanics}, vol.~41, no.~3,
+  pp.~532--540, 2008.
+
+\bibitem{RNS36}
+J.~J. Pilla, K.~J. Koomalsingh, J.~R. McGarvey, W.~R.~T. Witschey,
+  L.~Dougherty, J.~H. Gorman, and R.~C. Gorman, ``{Regional myocardial
+  three-dimensional principal strains during postinfarction remodeling},'' {\em
+  The Annals of thoracic surgery}, vol.~99, pp.~770--778, Mar. 2015.
+
+\bibitem{RNS37}
+P.~A. Huijing, ``{Muscle as a collagen fiber reinforced composite: a review of
+  force transmission in muscle and whole limb},'' {\em Journal of
+  Biomechanics}, vol.~32, pp.~329--345, Apr. 1999.
+
+\bibitem{RNS38}
+P.~P. Purslow, ``{The structure and functional significance of variations in
+  the connective tissue within muscle},'' {\em Comparative biochemistry and
+  physiology. Part A, Molecular {\&} integrative physiology}, vol.~133,
+  pp.~947--966, Dec. 2002.
+
+\bibitem{RNS39}
+R.~Csapo, V.~Malis, , U.~Sinha, J.~Du, and S.~Sinha, ``{Age-associated
+  differences in triceps surae muscle composition and strength - an MRI-based
+  cross-sectional comparison of contractile, adipose and connective tissue},''
+  {\em BMC musculoskeletal disorders}, vol.~15, p.~209, June 2014.
+
+\bibitem{RNS40}
+A.~R. Gillies and R.~L. Lieber, ``{Structure and function of the skeletal
+  muscle extracellular matrix},'' {\em Muscle {\&} Nerve}, vol.~44,
+  pp.~318--331, Sept. 2011.
+
+\bibitem{RNSS6}
+H.~Degens, R.~M. Erskine, and C.~I. Morse, ``{Disproportionate changes in
+  skeletal muscle strength and size with resistance training and ageing},''
+  {\em Journal of musculoskeletal {\&} neuronal interactions}, vol.~9,
+  pp.~123--129, July 2009.
+
+\bibitem{RNSS8}
+D.~C. Hughes, M.~A. Wallace, and K.~Baar, ``{Effects of aging, exercise, and
+  disease on force transfer in skeletal muscle},'' {\em American Journal of
+  Physiology-Endocrinology and Metabolism}, vol.~309, pp.~E1--E10, July 2015.
+
+\bibitem{RNSS4}
+U.~Pamuk, A.~Karakuzu, C.~Ozturk, B.~Acar, and C.~A. Yucesoy, ``{Combined
+  magnetic resonance and diffusion tensor imaging analyses provide a powerful
+  tool for in vivo assessment of deformation along human muscle fibers},'' {\em
+  Journal of the mechanical behavior of biomedical materials}, vol.~63,
+  pp.~207--219, Oct. 2016.
+
+\bibitem{RNSS10}
+S.~Sinha, D.~D. Shin, J.~A. Hodgson, R.~Kinugasa, and V.~R. Edgerton,
+  ``{Computer-controlled, MR-compatible foot-pedal device to study dynamics of
+  the muscle tendon complex under isometric, concentric, and eccentric
+  contractions},'' {\em Journal of Magnetic Resonance Imaging}, vol.~36,
+  pp.~498--504, Aug. 2012.
+
+\bibitem{RNSS11}
+S.~Sinha, J.~A. Hodgson, T.~Finni, A.~M. Lai, J.~Grinstead, and V.~R. Edgerton,
+  ``{Muscle kinematics during isometric contraction: development of phase
+  contrast and spin tag techniques to study healthy and atrophied muscles},''
+  {\em Journal of Magnetic Resonance Imaging}, vol.~20, pp.~1008--1019, Dec.
+  2004.
+
+\bibitem{RNSS12}
+L.~Wolf, M.~Kazimi, and N.~Todreas, ``{Introduction to structural mechanics},''
+  {\em MIT OpenCourseWare}, 2003.
+
+\bibitem{RNSS13}
+J.~M. Bland and D.~G. Altman, ``{Statistical methods for assessing agreement
+  between two methods of clinical measurement},'' {\em Lancet (London,
+  England)}, vol.~1, pp.~307--310, Feb. 1986.
+
+\bibitem{RNSS14}
+E.~R. Jensen, D.~A. Morrow, J.~P. Felmlee, G.~M. Odegard, and K.~R. Kaufman,
+  ``{Error analysis of cine phase contrast MRI velocity measurements used for
+  strain calculation},'' {\em Journal of Biomechanics}, vol.~48, pp.~95--103,
+  Jan. 2015.
+
+\bibitem{RNSS15}
+E.~Azizi, A.~R. Deslauriers, N.~C. Holt, and C.~E. Eaton, ``{Resistance to
+  radial expansion limits muscle strain and work},'' {\em Biomechanics and
+  modeling in mechanobiology}, vol.~16, pp.~1633--1643, Oct. 2017.
+
+\bibitem{RNSS17}
+Y.~Gao, A.~M. Waas, J.~A. Faulkner, T.~Y. Kostrominova, and A.~S. Wineman,
+  ``{Micromechanical modeling of the epimysium of the skeletal muscles},'' {\em
+  Journal of Biomechanics}, vol.~41, no.~1, pp.~1--10, 2008.
+
+\bibitem{RNSS18}
+C.~A. Yucesoy, ``{Epimuscular myofascial force transmission implies novel
+  principles for muscular mechanics},'' {\em Exercise and sport sciences
+  reviews}, vol.~38, pp.~128--134, July 2010.
+
+\bibitem{RNSS19}
+J.~Wilke, R.~Schleip, C.~A. Yucesoy, and W.~Banzer, ``{Not merely a protective
+  packing organ? A review of fascia and its force transmission capacity},''
+  {\em Journal of applied physiology (Bethesda, Md. : 1985)}, vol.~124,
+  pp.~234--244, Jan. 2018.
+
+\bibitem{RNSS20}
+M.~Rana, G.~Hamarneh, and J.~M. Wakeling, ``{3D fascicle orientations in
+  triceps surae},'' {\em Journal of applied physiology (Bethesda, Md. : 1985)},
+  vol.~115, pp.~116--125, July 2013.
+
+\bibitem{Donoho:2006cia}
+D.~L. Donoho, ``{Compressed sensing},'' {\em IEEE Transactions on Information
+  Theory}, vol.~52, no.~4, pp.~1289--1306.
+
+\bibitem{2008ISPM...25...21C}
+E.~J. Cand{\`e}s and M.~B. Wakin, ``{An Introduction To Compressive
+  Sampling},'' {\em IEEE Signal Processing Magazine}, vol.~25, pp.~21--30, Mar.
+  2008.
+
+\bibitem{Lustig:2007cua}
+M.~Lustig, D.~Donoho, and J.~M. Pauly, ``{Sparse MRI: The application of
+  compressed sensing for rapid MR imaging},'' {\em Magnetic Resonance in
+  Medicine}, vol.~58, pp.~1182--1195, Dec. 2007.
+
+\bibitem{Baker:2016vs}
+C.~A. Baker, {\em {Investigation of sparsifying transforms in compressed
+  sensing for magnetic resonance imaging with FastTestCS}}.
+\newblock PhD thesis, University of Wisconsin-Milwaukee, 2016.
+
+\bibitem{Candes:2005fx}
+E.~J. Cand{\`e}s and T.~Tao, ``{Decoding by Linear Programming},'' {\em IEEE
+  Transactions on Information Theory}, vol.~51, no.~12, pp.~4203--4215, 2005.
+
+\bibitem{2007InvPr..23..969C}
+E.~Cand{\`e}s and J.~Romberg, ``{Sparsity and incoherence in compressive
+  sampling},'' {\em Inverse Problems}, vol.~23, pp.~969--985, June 2007.
+
+\bibitem{Candes:2006fb}
+E.~J. Cand{\`e}s, J.~Romberg, and T.~Tao, ``{Robust Uncertainty Principles:
+  Exact Signal Reconstruction from Highly Incomplete Frequency Information },''
+  {\em IEEE Transactions on Information Theory}, vol.~52, no.~2, pp.~489--509,
+  2006.
+
+\bibitem{Qaisar:2013ff}
+S.~Qaisar, R.~M. Bilal, W.~Iqbal, M.~Naureen, and S.~Lee, ``{Compressive
+  Sensing: From Theory to Applications, a Survey},'' {\em Journal of
+  Communications and Networks}, vol.~15, pp.~443--456, Oct. 2013.
+
+\bibitem{Yin:2011ts}
+K.~Yin, Y.~Xiao, and M.~Zhang, ``Nonlinear conjugate gradient method for 1
+  l-norm regularization problems in compressive sensing,'' {\em Journal of
+  Computational Information Systems}, vol.~7, 3 2011.
+
+\bibitem{Ramirez:2014up}
+C.~Ramirez, R.~Sanchez, V.~Kreinovich, and M.~Argaez, ``{$\sqrt{(x^2+ \mu)}$ is
+  the Most Computationally Efficient Smooth Approximation to $\abs{x}$: a
+  Proof},'' vol.~8, p.~789, 2014.
+
+\bibitem{Armijo:1966di}
+L.~Armijo, ``{Minimization of Functions Having Lipschitz Continuous First
+  Partial Derivatives},'' {\em Pacific Journal of Mathematics}, vol.~16, no.~1,
+  pp.~1--3, 1966.
+
+\bibitem{Hager:2006wp}
+W.~W. Hager and H.~Zhang, ``{A survey of nonlinear conjugate gradient
+  methods},'' {\em Pacific Journal of Optimization}, vol.~2, no.~1,
+  pp.~35--58., 2006.
+
+\bibitem{Shewchuk:1994uc}
+J.~R. Shewchuk, {\em {An introduction to the conjugate gradient method without
+  the agonizing pain}}.
+\newblock Carnegie-Mellon University. Department of Computer Science, 1994.
+
+\bibitem{RNCS3}
+J.~E. Drace and N.~J. Pelc, ``{Skeletal muscle contraction: analysis with use
+  of velocity distributions from phase-contrast MR imaging},'' {\em Radiology},
+  vol.~193, pp.~423--429, Nov. 1994.
+
+\bibitem{RNCS4}
+A.~Karakuzu, U.~Pamuk, C.~Ozturk, B.~Acar, and C.~A. Yucesoy, ``{Magnetic
+  resonance and diffusion tensor imaging analyses indicate heterogeneous
+  strains along human medial gastrocnemius fascicles caused by submaximal
+  plantar-flexion activity},'' {\em Journal of Biomechanics}, vol.~57,
+  pp.~69--78, May 2017.
+
+\bibitem{RNCS5}
+A.~L. Wentland, E.~J. McWalter, S.~Pal, S.~L. Delp, and G.~E. Gold, ``{Muscle
+  velocity and inertial force from phase contrast MRI},'' {\em Journal of
+  Magnetic Resonance Imaging}, vol.~42, pp.~526--532, Aug. 2015.
+
+\bibitem{Malis:2018fr}
+V.~Malis, U.~Sinha, R.~Csapo, M.~Narici, and S.~Sinha, ``{Relationship of
+  changes in strain rate indices estimated from velocity-encoded MR imaging to
+  loss of muscle force following disuse atrophy},'' {\em Magnetic Resonance in
+  Medicine}, vol.~79, pp.~912--922, Feb. 2018.
+
+\bibitem{RNCS9}
+R.~Otazo, D.~Kim, L.~Axel, and D.~K. Sodickson, ``{Combination of compressed
+  sensing and parallel imaging for highly accelerated first-pass cardiac
+  perfusion MRI},'' {\em Magnetic Resonance in Medicine}, vol.~64,
+  pp.~767--776, Aug. 2010.
+
+\bibitem{RNCS10}
+D.~Kim, H.~A. Dyvorne, R.~Otazo, L.~Feng, D.~K. Sodickson, and V.~S. Lee,
+  ``{Accelerated phase-contrast cine MRI using k-t SPARSE-SENSE},'' {\em
+  Magnetic Resonance in Medicine}, vol.~67, pp.~1054--1064, Nov. 2011.
+
+\bibitem{RNCS11}
+L.~M. Gottwald, E.~S. Peper, B.~F. Coolen, and P.~van Ooij, ``{Accelerated 4D
+  phase contrast MRI in skeletal muscle contraction},'' {\em Magnetic Resonance
+  in Medicine}, vol.~80, pp.~1799--1811, Nov. 2018.
+
+\bibitem{RNCS12}
+R.~G.~P. Lopata, J.~P. van Dijk, S.~Pillen, M.~M. Nillesen, H.~Maas, J.~M.
+  Thijssen, D.~F. Stegeman, and C.~L. de~Korte, ``{Dynamic imaging of skeletal
+  muscle contraction in three orthogonal directions},'' vol.~109, pp.~906--915,
+  Sept. 2010.
+
+\bibitem{RNCS14}
+H.~Jung and J.~C. Ye, ``{Motion estimated and compensated compressed sensing
+  dynamic magnetic resonance imaging: What we can learn from video compression
+  techniques},'' vol.~20, pp.~81--98, June 2010.
+
+\bibitem{RNCS15}
+M.~A. Griswold, D.~Walsh, R.~M. Heidemann, and A.~Haase, ``{The use of an
+  adaptive reconstruction for array coil sensitivity mapping and intensity
+  normalization},'' in {\em Proceedings of International Society of Magnetic
+  Resonance in Medicine}, (Honolulu, HI, 2002), 2002.
+
+\bibitem{RNCS17}
+P.~Perona and J.~Malik, ``{Scale-Space and Edge-Detection Using Anisotropic
+  Diffusion},'' {\em IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, vol.~12, pp.~629--639, July 1990.
+
+\bibitem{RNCS18}
+M.~Doneva, P.~B{\"o}rnert, H.~Eggers, C.~Stehning, J.~S{\'e}n{\'e}gas, and
+  A.~Mertins, ``{Compressed sensing reconstruction for magnetic resonance
+  parameter mapping},'' {\em Magnetic Resonance in Medicine}, vol.~64,
+  pp.~1114--1120, Oct. 2010.
+
+\bibitem{RNCS19}
+M.~Doneva, J.~S{\'e}n{\'e}gas, P.~B{\"o}rnert, H.~Eggers, and A.~Mertins,
+  ``{Accelerated MR parameter mapping using compressed sensing with model-based
+  sparsifying transform},'' in {\em Proceedings of International Society of
+  Magnetic Resonance in Medicine}, (Honolulu, HI, 2009).
+
+\bibitem{RNCS20}
+C.~Huang, C.~Graff, A.~Bilgin, and M.~Altbach, ``{Fast MR parameter mapping
+  from highly undersampled data by Direct Reconstruction of Principal Component
+  Coefficient Maps using Compressed Sensing},'' in {\em Proceedings of
+  International Society of Magnetic Resonance in Medicine}, (Stockholm, Sweden,
+  2010).
+
+\bibitem{RNCS21}
+L.~Feng, R.~Otazo, H.~Jung, J.~H. Jensen, J.~C. Ye, D.~K. Sodickson, and
+  D.~Kim, ``{Accelerated cardiac T2 mapping using breath-hold multiecho fast
+  spin-echo pulse sequence with k-t FOCUSS},'' {\em Magnetic Resonance in
+  Medicine}, vol.~65, pp.~1661--1669, June 2011.
+
+\bibitem{RNCS22}
+J.~Hutter, P.~Schmitt, M.~Saake, A.~Stubinger, R.~Grimm, C.~Forman, A.~Greiser,
+  J.~Hornegger, and A.~Maier, ``{Multi-dimensional flow-preserving compressed
+  sensing (MuFloCoS) for time-resolved velocity-encoded phase contrast MRI},''
+  {\em Medical Imaging, IEEE Transactions on}, vol.~34, pp.~400--414, Feb.
+  2015.
+
+\bibitem{Fick}
+A.~Fick, ``{Ueber Diffusion},'' {\em Annalen der Physik}, vol.~170, no.~1,
+  pp.~59--86, 1855.
+
+\bibitem{Einstein}
+A.~Einstein, ``{{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme
+  geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten
+  Teilchen},'' {\em Annalen der Physik}, vol.~322, no.~8, pp.~549--560, 1905.
+
+\bibitem{Smoluchowski}
+M.~von Smoluchowski, ``{Zur kinetischen Theorie der Brownschen
+  Molekularbewegung und der Suspensionen},'' {\em Annalen der Physik},
+  vol.~326, no.~1, pp.~756--780, 1906.
+
+\bibitem{Peliti}
+L.~Peliti, ch.~9, pp.~280--282.
+\newblock Princeton University Press, 1st~ed., 2011.
+
+\bibitem{DerekKJones}
+P.~T. Callaghan, ch.~4, pp.~45--56.
+\newblock Oxford University Press, USA, 2010.
+
+\bibitem{Tuch:2002ts}
+D.~S. Tuch, {\em {Diffusion MRI of Complex Tissue Structure}}.
+\newblock {Ph.D.} thesis, Massachusetts Institute of Technology, May 2002.
+
+\bibitem{Torrey}
+H.~C. Torrey, ``{Bloch equations with diffusion terms},'' {\em Phys. Rev.},
+  vol.~104, no.~3, p.~563, 1956.
+
+\bibitem{RNDT23}
+M.~K. Stehling, R.~Turner, and P.~Mansfield, ``{Echo-planar imaging: magnetic
+  resonance imaging in a fraction of a second},'' {\em Science (New York,
+  N.Y.)}, vol.~254, pp.~43--50, Oct. 1991.
+
+\bibitem{RNDT}
+J.~Mattiello, P.~J. Basser, and D.~Le~Bihan, ``{The b matrix in diffusion
+  tensor echo-planar imaging},'' {\em Magnetic Resonance in Medicine}, vol.~37,
+  pp.~292--300, Feb. 1997.
+
+\bibitem{TAYLOR200335}
+D.~Taylor, ``Failure processes in hard and soft tissues,'' in {\em
+  Comprehensive Structural Integrity} (I.~Milne, R.~Ritchie, and B.~Karihaloo,
+  eds.), pp.~35--95, Oxford: Pergamon, 2003.
+
+\bibitem{RND1}
+C.~Giraudo, S.~Motyka, M.~Weber, M.~Karner, C.~Resinger, T.~Feiweier,
+  S.~Trattnig, and W.~Bogner, ``{Normalized STEAM-based diffusion tensor
+  imaging provides a robust assessment of muscle tears in football players:
+  preliminary results of a new approach to evaluate muscle injuries},'' {\em
+  European radiology}, vol.~28, pp.~2882--2889, July 2018.
+
+\bibitem{RND2}
+C.~J. Galb{\'a}n, S.~Maderwald, K.~Uffmann, and M.~E. Ladd, ``{A diffusion
+  tensor imaging analysis of gender differences in water diffusivity within
+  human skeletal muscle},'' {\em NMR in biomedicine}, vol.~18, pp.~489--498,
+  Dec. 2005.
+
+\bibitem{RND3}
+L.~Schlaffke, R.~Rehmann, M.~Froeling, R.~Kley, M.~Tegenthoff, M.~Vorgerd, and
+  T.~Schmidt-Wilcke, ``{Diffusion tensor imaging of the human calf: Variation
+  of inter- and intramuscle-specific diffusion parameters},'' {\em Journal of
+  Magnetic Resonance Imaging}, vol.~46, pp.~1137--1148, Oct. 2017.
+
+\bibitem{RND4}
+E.~E. Sigmund, D.~Sui, O.~Ukpebor, S.~Baete, E.~Fieremans, J.~S. Babb,
+  M.~Mechlin, K.~Liu, J.~Kwon, K.~McGorty, P.~A. Hodnett, and J.~Bencardino,
+  ``{Stimulated echo diffusion tensor imaging and SPAIR T2 -weighted imaging in
+  chronic exertional compartment syndrome of the lower leg muscles},'' {\em
+  Journal of Magnetic Resonance Imaging}, vol.~38, pp.~1073--1082, Nov. 2013.
+
+\bibitem{RND5}
+B.~M. Damon, A.~K.~W. Buck, and Z.~Ding, ``{Diffusion-Tensor MRI Based Skeletal
+  Muscle Fiber Tracking},'' {\em Imaging in medicine}, vol.~3, pp.~675--687,
+  Nov. 2011.
+
+\bibitem{RND6}
+B.~M. Damon and Z.~Ding, ``{Skeletal muscle diffusion tensor-MRI fiber
+  tracking: rationale, data acquisition and analysis methods, applications and
+  future directions},'' vol.~30, Mar. 2017.
+
+\bibitem{RND7}
+U.~Sinha, R.~Csapo, V.~Malis, Y.~Xue, and S.~Sinha, ``{Age-related differences
+  in diffusion tensor indices and fiber architecture in the medial and lateral
+  gastrocnemius},'' {\em Journal of Magnetic Resonance Imaging}, vol.~41,
+  pp.~941--953, Apr. 2015.
+
+\bibitem{RND8}
+J.~Zhang, G.~Zhang, B.~Morrison, S.~Mori, and K.~A. Sheikh, ``{Magnetic
+  resonance imaging of mouse skeletal muscle to measure denervation atrophy},''
+  {\em Experimental neurology}, vol.~212, pp.~448--457, Aug. 2008.
+
+\bibitem{RND9}
+Y.~Hara, K.~Ikoma, M.~Kido, T.~Sukenari, Y.~Arai, H.~Fujiwara, M.~Kawata, and
+  T.~Kubo, ``{Diffusion tensor imaging assesses triceps surae dysfunction after
+  achilles tenotomy in rats},'' {\em Journal of Magnetic Resonance Imaging},
+  vol.~41, pp.~1541--1548, June 2015.
+
+\bibitem{RND10}
+Y.~Assaf, T.~Blumenfeld-Katzir, Y.~Yovel, and P.~J. Basser, ``{AxCaliber: a
+  method for measuring axon diameter distribution from diffusion MRI},'' {\em
+  Magnetic Resonance in Medicine}, vol.~59, pp.~1347--1354, June 2008.
+
+\bibitem{RND11}
+M.~G. Hall and C.~A. Clark, ``{Diffusion in hierarchical systems: A simulation
+  study in models of healthy and diseased muscle tissue},'' {\em Magnetic
+  Resonance in Medicine}, vol.~78, pp.~1187--1198, Sept. 2017.
+
+\bibitem{RND12}
+D.~C. Karampinos, K.~F. King, B.~P. Sutton, and J.~G. Georgiadis, ``{Myofiber
+  Ellipticity as an Explanation for Transverse Asymmetry of Skeletal Muscle
+  Diffusion MRI In Vivo Signal},'' {\em Annals of Biomedical Engineering},
+  vol.~37, pp.~2532--2546, Sept. 2009.
+
+\bibitem{RND13}
+E.~Fieremans, G.~Lemberskiy, J.~Veraart, E.~E. Sigmund, S.~Gyftopoulos, and
+  D.~S. Novikov, ``{In vivo measurement of membrane permeability and myofiber
+  size in human muscle using time-dependent diffusion tensor imaging and the
+  random permeable barrier model},'' {\em NMR in biomedicine}, vol.~30, Mar.
+  2017.
+
+\bibitem{RND20}
+J.~Pauly, ``{Partial k-space reconstruction},'' {\em
+  \url{https://users.fmrib.ox.ac.uk/}}, 2005.
+
+\bibitem{RND22}
+A.~Rosset, L.~Spadola, and O.~Ratib, ``{OsiriX: An Open-Source Software for
+  Navigating in Multidimensional DICOM Images},'' {\em Journal of Digital
+  Imaging}, vol.~17, pp.~205--216, June 2004.
+
+\bibitem{RND23}
+M.~Jenkinson, C.~F. Beckmann, T.~E.~J. Behrens, M.~W. Woolrich, and S.~M.
+  Smith, ``{FSL},'' {\em NeuroImage}, vol.~62, pp.~782--790, Aug. 2012.
+
+\bibitem{RND24}
+A.~Trist{\'a}n-Vega and S.~Aja-Fern{\'a}ndez, ``{DWI filtering using joint
+  information for DTI and HARDI},'' {\em Medical image analysis}, vol.~14,
+  pp.~205--218, Apr. 2010.
+
+\bibitem{RND25}
+S.~Aja-Fern{\'a}ndez, M.~Niethammer, M.~Kubicki, M.~E. Shenton, and C.-F.
+  Westin, ``{Restoration of DWI data using a Rician LMMSE estimator},'' {\em
+  IEEE Transactions on Medical Imaging}, vol.~27, pp.~1389--1403, Oct. 2008.
+
+\bibitem{RND26}
+G.~Saab, R.~T. Thompson, and G.~D. Marsh, ``{Multicomponent T2 relaxation of in
+  vivo skeletal muscle},'' {\em Magnetic Resonance in Medicine}, vol.~42,
+  pp.~150--157, July 1999.
+
+\bibitem{KARGER19881}
+J.~K{\"a}rger, H.~Pfeifer, and W.~Heink, ``Principles and application of
+  self-diffusion measurements by nuclear magnetic resonance,'' vol.~12 of {\em
+  Advances in Magnetic and Optical Resonance}, pp.~1--89, Academic Press, 1988.
+
+\bibitem{RND27}
+T.~W. Buford, D.~J. Lott, E.~Marzetti, S.~E. Wohlgemuth, K.~Vandenborne,
+  M.~Pahor, C.~Leeuwenburgh, and T.~M. Manini, ``{Age-related differences in
+  lower extremity tissue compartments and associations with physical function
+  in older adults},'' {\em Experimental gerontology}, vol.~47, pp.~38--44, Jan.
+  2012.
+
+\bibitem{RND30}
+Y.~Rolland, V.~Lauwers-Cances, M.~Cournot, F.~Nourhash{\'e}mi, W.~Reynish,
+  D.~Rivi{\`e}re, B.~Vellas, and H.~Grandjean, ``{Sarcopenia, calf
+  circumference, and physical function of elderly women: a cross-sectional
+  study},'' {\em Journal of the American Geriatrics Society}, vol.~51,
+  pp.~1120--1124, Aug. 2003.
+
+\bibitem{RND31}
+Y.~Ohira, T.~Yoshinaga, T.~Nomura, F.~Kawano, A.~Ishihara, I.~Nonaka, R.~R.
+  Roy, and V.~R. Edgerton, ``{Gravitational unloading effects on muscle fiber
+  size, phenotype and myonuclear number},'' {\em Space Life Sciences:
+  Biological Research and Space Radiation}, vol.~30, no.~4, pp.~777--781, 2002.
+
+\bibitem{RND32}
+B.~Noehren, A.~Andersen, T.~Feiweier, B.~Damon, and P.~Hardy, ``{Comparison of
+  twice refocused spin echo versus stimulated echo diffusion tensor imaging for
+  tracking muscle fibers},'' {\em Journal of Magnetic Resonance Imaging},
+  vol.~41, pp.~624--632, Mar. 2015.
+
+\bibitem{RND33}
+M.~T. Hooijmans, B.~M. Damon, M.~Froeling, M.~J. Versluis, J.~Burakiewicz,
+  J.~J. G.~M. Verschuuren, E.~H. Niks, A.~G. Webb, and H.~E. Kan, ``{Evaluation
+  of skeletal muscle DTI in patients with duchenne muscular dystrophy},'' {\em
+  NMR in biomedicine}, vol.~28, pp.~1589--1597, Nov. 2015.
+
+\bibitem{RND35}
+D.~A. Riley, J.~L. Bain, J.~L. Thompson, R.~H. Fitts, J.~J. Widrick, S.~W.
+  Trappe, T.~A. Trappe, and D.~L. Costill, ``{Decreased thin filament density
+  and length in human atrophic soleus muscle fibers after spaceflight},'' {\em
+  Journal of Applied Physiology}, vol.~88, pp.~567--572, Feb. 2000.
+
+\bibitem{RND36}
+L.~Aquin, A.~J. Lechner, A.~H. Sillau, and N.~Banchero, ``{Analysis of the
+  shape changes of muscle fiber cross sections in guinea pigs raised at 22
+  degrees C and 5 degrees C},'' {\em Pflugers Archiv : European journal of
+  physiology}, vol.~385, pp.~223--228, June 1980.
+
+\bibitem{RND38}
+W.~M.~H. Behan, D.~W. Cossar, H.~A. Madden, and I.~C. McKay, ``{Validation of a
+  simple, rapid, and economical technique for distinguishing type 1 and 2
+  fibres in fixed and frozen skeletal muscle},'' {\em Journal of clinical
+  pathology}, vol.~55, pp.~375--380, May 2002.
+
+\bibitem{RND39}
+H.~W. Venema and J.~Overweg, ``{Analysis of the size and shape of
+  cross-sections of muscle fibres},'' {\em Medical {\&} biological
+  engineering}, vol.~12, pp.~681--692, Sept. 1974.
+
+\bibitem{NovikovRPBM}
+D.~S. Novikov, E.~Fieremans, J.~H. Jensen, and J.~A. Helpern, ``{Random walk
+  with barriers},'' {\em Nature physics}, vol.~7, pp.~508--514, June 2011.
+
+\end{thebibliography}

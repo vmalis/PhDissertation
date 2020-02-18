@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/vadmalis/Desktop/Dissertation/PhDissertation/.texpadtmp/template.aux
+A level-1 auxiliary file: template_frontmatter.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
+A level-1 auxiliary file: chapter7.aux
+The style file: ieeetr.bst
+Database file #1: ../template.bib
+Warning--entry type for "Leroux:1990tk" isn't style-file defined
+--line 1136 of file ../template.bib
+Warning--empty journal in RNS6
+Warning--empty journal in RNS19
+Warning--empty publisher in RNS26
+Warning--empty year in Donoho:2006cia
+Warning--empty journal in Ramirez:2014up
+Warning--empty journal in RNCS12
+Warning--empty journal in RNCS14
+Warning--empty year in RNCS19
+Warning--empty year in RNCS20
+Warning--empty title in Peliti
+Warning--can't use both author and editor fields in DerekKJones
+Warning--empty title in DerekKJones
+Warning--empty journal in RND6
+Warning--empty booktitle in KARGER19881
+You've used 145 entries,
+            1876 wiz_defined-function locations,
+            1429 strings with 34071 characters,
+and the built_in function-call counts, 48378 in all, are:
+= -- 4957
+> -- 2065
+< -- 0
++ -- 744
+- -- 599
+* -- 3820
+:= -- 6740
+add.period$ -- 154
+call.type$ -- 145
+change.case$ -- 139
+chr.to.int$ -- 0
+cite$ -- 159
+duplicate$ -- 2255
+empty$ -- 3960
+format.name$ -- 599
+if$ -- 11576
+int.to.chr$ -- 0
+int.to.str$ -- 145
+missing$ -- 149
+newline$ -- 447
+num.names$ -- 147
+pop$ -- 246
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1975
+stack$ -- 0
+substring$ -- 4045
+swap$ -- 1185
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 14
+while$ -- 521
+width$ -- 148
+write$ -- 1443
+(There were 15 warnings)

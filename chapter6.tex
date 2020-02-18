@@ -167,7 +167,7 @@ Data are reported as mean $\pm$ standard deviation.
 For all tests, the level of significance was set at 0.05. 
 The statistical analyses were carried out using SPSS for Mac OSX (SPSS 23.0, IBM Inc, Armonk, NY).
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-\subsection{Bicompartment Diffusion Model with Exchange}
+\subsection{Bicompartmental Diffusion Model with Exchange}
 \label{subsec: bicompart}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The multi-compartment diffusion model used here is originally proposed by K\"arger~\cite{KARGER19881} and extended by Karampinos~\cite{RND12}. 
@@ -176,7 +176,7 @@ Muscle fibers are approximated with infinite cylinders of an elliptical cross-se
 \begin{figure}[!htb]
 \vspace{+0.2cm}
 \centering
-\includegraphics[scale=.25]{Figures/FibersModel.pdf}
+\includegraphics[scale=.3]{Figures/FibersModel.pdf}
 \caption[Schematic of muscle fibers and endomaysium matrix]{Schematic of muscle fibers and endomaysium matrix.}
 \label{fig: KargerModel}
 \end{figure}
@@ -484,7 +484,7 @@ FA maps side by side with the corresponding magnitude images at nominal \mbox{\t
 \vspace{+0.2cm}
 \centering
 \includegraphics[width=0.9\textwidth]{Figures/STEAM_Phantom.pdf}
-\caption[Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI image sequence at two diffusion times]{Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI image sequence at two diffusion times: 20 and $\SI{600}{\milli\second}$.}
+\caption[Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI image sequence at two diffusion times]{Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI image sequence at two mixing times: 20 and $\SI{590}{\milli\second}$.}
 \label{fig:STEAM phantom}
 \end{figure}
 %*********************************************************
@@ -494,7 +494,7 @@ FA maps side by side with the corresponding magnitude images at nominal \mbox{\t
 All human imaging studies were performed after IRB approval on a $\SI{3}{\tesla}$ scanner (GE Medical Systems, WI, USA) on seven young ($31 \pm 8$ years) and six senior ($75 \pm 5$ years) subjects. 
 The RPBM model was fitted by fixing the free diffusion coefficient $D_0$ at the long diffusion time limit of the primary eigenvalue ($\lambda_1$) to extract the following parameters: the membrane permeability ($\kappa$), and the membrane surface to volume ratio ($S/V$). 
 The myofiber size (a) is derived from the surface to volume ratio as: $4V/S$. 
-The RPBM fits were made to the time dependence of the average of $\lambda_2$, and $\lambda_3$ ($D_{\perp}$); the values of $D_{\perp}$ were the average over the medial gastrocnemius (MG) muscle segmented from all three slices.
+The RPBM fits were made to the time dependence of the average of $\lambda_2$, and $\lambda_3$ ($D_{\perp}$); the values of $D_{\perp}$ were the average over the medial gastrocnemius (MG) muscle segmented from all three~slices.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \subsection{Results}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -507,12 +507,10 @@ The decrease in SNR with diffusion time can be visualized by the noisier images 
 \vspace{+0.2cm}
 \centering
 \includegraphics[width=0.9\textwidth]{Figures/STEAM_EV.pdf}
-\caption[Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI at two diffusion times]{Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI image sequence at two diffusion times: 20 and $\SI{600}{\milli\second}$.}
+\caption[Diffusion tensor eigenvalues grayscale maps at two values of mixing time  for a young and a senior subject]{Diffusion tensor eigenvalues $D_\parallel$ and $D_\perp$ grayscale maps at two values of mixing time (20 and $\SI{600}{\milli\second}$) for a young (left) and a senior (right) subject. The decrease in SNR with TM can be visualized by the noisier images of the bottom panel.}
 \label{fig:STEAM_EV}
 \end{figure}
 %*********************************************************
-Table~\ref{tab:RPBM} summarizes the eigenvalues for the MG muscle in the young and senior cohort at the ten diffusion times. 
-Larger changes with diffusion time are seen in $\lambda_2$, and $\lambda_3$ (compared~to~$\lambda_1$). 
 %=========================================================
 \begin{table}[!htb]
 \vspace{+0.2cm}
@@ -538,8 +536,10 @@ Larger changes with diffusion time are seen in $\lambda_2$, and $\lambda_3$ (com
 \vspace{-0.2cm}
 \end{table}
 %=========================================================
+Table~\ref{tab:RPBM} summarizes the eigenvalues for the MG muscle in the young and senior cohort at the ten diffusion times. 
+Larger changes with diffusion time are seen in $\lambda_2$, and $\lambda_3$ (compared~to~$\lambda_1$). 
 The RPBM fits to the time dependence of $D_\perp$ for a subject from the young cohort and from the senior cohort are shown for the Figure~\ref{fig:RPBM fit}. The large variation of $D_\perp$ with TM is in contrast to the smaller variation of $D_\parallel$ with TM.
-Table~\ref{tab:RPBM2} is a list of model derived muscle microstructure parameters; volume fraction decreased with age while diffusion time and residence time in a cell increased with age while other model parameters such as the fiber size and membrane permeability increased with age but did not reach~significance.
+Table~\ref{tab:RPBM2} is a list of model derived muscle microstructure parameters; volume fraction decreased with age while diffusion time and residence time in a cell increased with age while other model parameters such as the fiber size and membrane permeability increased with age but did not reach significance.
 %*********************************************************
 \begin{figure}[!htb]
 \vspace{+0.2cm}
