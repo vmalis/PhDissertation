@@ -70,38 +70,38 @@
 \contentsline {section}{\numberline {4.3}Study of Age Related Difference in Strain Indices}{108}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Methods}{109}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Results}{111}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Discussion}{114}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Conclusions}{114}{subsection.4.3.4}
-\contentsline {section}{\numberline {4.4}Acknowledgments}{114}{section.4.4}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}5}Diffusion Tensor Imaging}{117}{chapter.5}
-\contentsline {section}{\numberline {5.1}Brownian Motion and Einstein Relation}{117}{section.5.1}
-\contentsline {section}{\numberline {5.2}Bloch-Torrey Equations and Diffusion Tensor}{121}{section.5.2}
-\contentsline {section}{\numberline {5.3}Echo Planar Imaging (EPI)}{124}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Stimulated Echo Acquisition Mode (STEAM)}{126}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Correction to the \textit {b}-matrix}{128}{subsection.5.3.2}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}6}Diffusion Modeling to Study Microarchitecture in Human Skeletal Muscles}{132}{chapter.6}
-\contentsline {section}{\numberline {6.1}Monitoring Changes in the Medial Gastrocnemius in Disuse Atrophy Induced by Unilateral Limb Suspension}{133}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Methods}{134}{subsection.6.1.1}
-\contentsline {subsubsection}{\textit {In-vivo} experiments}{134}{section*.97}
-\contentsline {subsubsection}{Study design}{134}{section*.98}
-\contentsline {subsubsection}{Unilateral Limb Suspension (ULLS)}{135}{section*.99}
-\contentsline {subsubsection}{MR imaging}{135}{section*.100}
-\contentsline {subsubsection}{Force measurements}{137}{section*.101}
-\contentsline {subsubsection}{Muscle volume measurements}{137}{section*.102}
-\contentsline {subsubsection}{Image preprocessing and DTI indices computation}{137}{section*.103}
-\contentsline {subsubsection}{Simulation}{138}{section*.105}
-\contentsline {subsubsection}{Statistical analysis}{140}{section*.107}
-\contentsline {subsection}{\numberline {6.1.2}Bicompartmental Diffusion Model with Exchange}{141}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Results}{144}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}Discussion}{147}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}Conclusion}{152}{subsection.6.1.5}
-\contentsline {section}{\numberline {6.2}Random Permeable Barrier Modeling of Age Induced Changes in the Time Dependent Diffusion Eigenvalues}{153}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Random Permeable Barrier Model}{153}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Materials and Methods}{154}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Results}{156}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Discussion}{157}{subsection.6.2.4}
-\contentsline {subsection}{\numberline {6.2.5}Conclusions}{158}{subsection.6.2.5}
-\contentsline {section}{\numberline {6.3}Acknowledgments}{159}{section.6.3}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}7}Conclusion: Summary of the Developed Methods and Application in Future Studies.}{160}{chapter.7}
-\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Institutional Review Board Approval}{162}{appendix.A}
-\contentsline {backmatter}{Bibliography}{165}{appendix*.118}
+\contentsline {subsection}{\numberline {4.3.3}Discussion}{115}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Conclusions}{115}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}Acknowledgments}{115}{section.4.4}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}5}Diffusion Tensor Imaging}{116}{chapter.5}
+\contentsline {section}{\numberline {5.1}Brownian Motion and Einstein Relation}{116}{section.5.1}
+\contentsline {section}{\numberline {5.2}Bloch-Torrey Equations and Diffusion Tensor}{120}{section.5.2}
+\contentsline {section}{\numberline {5.3}Echo Planar Imaging (EPI)}{123}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Stimulated Echo Acquisition Mode (STEAM)}{125}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Correction to the \textit {b}-matrix}{127}{subsection.5.3.2}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}6}Diffusion Modeling to Study Microarchitecture in Human Skeletal Muscles}{131}{chapter.6}
+\contentsline {section}{\numberline {6.1}Monitoring Changes in the Medial Gastrocnemius in Disuse Atrophy Induced by Unilateral Limb Suspension}{132}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Methods}{133}{subsection.6.1.1}
+\contentsline {subsubsection}{\textit {In-vivo} experiments}{133}{section*.97}
+\contentsline {subsubsection}{Study design}{133}{section*.98}
+\contentsline {subsubsection}{Unilateral Limb Suspension (ULLS)}{134}{section*.99}
+\contentsline {subsubsection}{MR imaging}{134}{section*.100}
+\contentsline {subsubsection}{Force measurements}{136}{section*.101}
+\contentsline {subsubsection}{Muscle volume measurements}{136}{section*.102}
+\contentsline {subsubsection}{Image preprocessing and DTI indices computation}{136}{section*.103}
+\contentsline {subsubsection}{Simulation}{137}{section*.105}
+\contentsline {subsubsection}{Statistical analysis}{139}{section*.107}
+\contentsline {subsection}{\numberline {6.1.2}Bicompartmental Diffusion Model with Exchange}{140}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Results}{143}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Discussion}{146}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Conclusion}{151}{subsection.6.1.5}
+\contentsline {section}{\numberline {6.2}Random Permeable Barrier Modeling of Age Induced Changes in the Time Dependent Diffusion Eigenvalues}{152}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Random Permeable Barrier Model}{152}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Materials and Methods}{153}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Results}{155}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Discussion}{156}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Conclusions}{157}{subsection.6.2.5}
+\contentsline {section}{\numberline {6.3}Acknowledgments}{158}{section.6.3}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}7}Conclusion: Summary of the Developed Methods and Application in Future Studies.}{159}{chapter.7}
+\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Institutional Review Board Approval}{161}{appendix.A}
+\contentsline {backmatter}{Bibliography}{164}{appendix*.118}

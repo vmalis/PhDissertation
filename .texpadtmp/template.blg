@@ -1,6 +1,6 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/vadmalis/Desktop/PhDissertation/.texpadtmp/template.aux
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.aux
 A level-1 auxiliary file: template_frontmatter.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
@@ -29,7 +29,7 @@ Warning--empty journal in RND6
 Warning--empty booktitle in KARGER19881
 You've used 145 entries,
             1876 wiz_defined-function locations,
-            1429 strings with 34045 characters,
+            1429 strings with 34085 characters,
 and the built_in function-call counts, 48378 in all, are:
 = -- 4957
 > -- 2065

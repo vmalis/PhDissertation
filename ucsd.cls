@@ -1275,7 +1275,7 @@ on microfilm and electronically: }}\\
     \let\p@enumiv\@empty
     \def\theenumiv{\arabic{enumiv}}}%
     \def\newblock{\hskip .11em plus.33em minus.07em}%
-    \sloppy\clubpenalty4000\widowpenalty4000
+    \sloppy\clubpenalty4000\widowpenalty4000\interlinepenalty=10000
     \sfcode`\.=\@m}
 
 
