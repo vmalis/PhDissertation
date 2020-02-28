@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 FEB 2020 13:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 FEB 2020 14:24
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1756,32 +1756,32 @@ Overfull \hbox (10.08946pt too wide) in paragraph at lines 173--191
 []\OT1/lmr/m/n/12 (-20) The multi-compartment dif-fu-sion model used here is orig-i-nally pro-posed by K^^?arger [[]]
  []
 
-[140 <./Figures/FibersModel.pdf>] [141] [142] <Figures/DTI_2compart.pdf, id=3098, 614.295pt x 621.52202pt>
+[140 <./Figures/FibersModel.pdf>] [141] [142] <Figures/DTI_2compart.pdf, id=3098, 614.295pt x 622.325pt>
 File: Figures/DTI_2compart.pdf Graphic file (type pdf)
  <use Figures/DTI_2compart.pdf>
 Package pdftex.def Info: Figures/DTI_2compart.pdf used on input line 302.
-(pdftex.def)             Requested size: 458.91493pt x 464.31952pt.
+(pdftex.def)             Requested size: 458.91493pt x 464.91939pt.
  [143] [144 <./Figures/DTI_2compart.pdf>]
 Underfull \hbox (badness 4595) in paragraph at lines 331--332
 []\OT1/lmr/m/n/10 (+20) significant dif-fer-ence be-tween pre- and post-
  []
 
-<Figures/KargerPlots.pdf, id=3219, 711.93518pt x 420.19754pt>
+<Figures/KargerPlots.pdf, id=3221, 711.93518pt x 420.19754pt>
 File: Figures/KargerPlots.pdf Graphic file (type pdf)
  <use Figures/KargerPlots.pdf>
 Package pdftex.def Info: Figures/KargerPlots.pdf used on input line 346.
 (pdftex.def)             Requested size: 458.91493pt x 270.86824pt.
- [145] [146 <./Figures/KargerPlots.pdf>] [147] [148] [149] [150] [151] [152] <Figures/STEAM_Phantom.pdf, id=3340, 773.28903pt x 549.25201pt>
+ [145] [146 <./Figures/KargerPlots.pdf>] [147] [148] [149] [150] [151] [152] <Figures/STEAM_Phantom.pdf, id=3342, 773.28903pt x 549.25201pt>
 File: Figures/STEAM_Phantom.pdf Graphic file (type pdf)
  <use Figures/STEAM_Phantom.pdf>
 Package pdftex.def Info: Figures/STEAM_Phantom.pdf used on input line 493.
 (pdftex.def)             Requested size: 413.02063pt x 293.35664pt.
- [153] [154 <./Figures/STEAM_Phantom.pdf>] <Figures/STEAM_EV.pdf, id=3377, 794.97pt x 303.534pt>
+ [153] [154 <./Figures/STEAM_Phantom.pdf>] <Figures/STEAM_EV.pdf, id=3379, 794.97pt x 303.534pt>
 File: Figures/STEAM_EV.pdf Graphic file (type pdf)
  <use Figures/STEAM_EV.pdf>
 Package pdftex.def Info: Figures/STEAM_EV.pdf used on input line 516.
 (pdftex.def)             Requested size: 413.02063pt x 157.70427pt.
- <Figures/RPBM_fit.pdf, id=3381, 829.0975pt x 417.56pt>
+ <Figures/RPBM_fit.pdf, id=3383, 829.0975pt x 417.56pt>
 File: Figures/RPBM_fit.pdf Graphic file (type pdf)
  <use Figures/RPBM_fit.pdf>
 Package pdftex.def Info: Figures/RPBM_fit.pdf used on input line 554.
@@ -1804,7 +1804,7 @@ Chapter 7.
 
 ]) [160]
 Appendix A.
-<IRB.pdf, id=3468, 614.295pt x 794.97pt>
+<IRB.pdf, id=3470, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf>
 Package pdftex.def Info: IRB.pdf used on input line 263.
@@ -1813,7 +1813,7 @@ File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf>
 Package pdftex.def Info: IRB.pdf used on input line 263.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <IRB.pdf, id=3471, page=1, 614.295pt x 794.97pt>
+ <IRB.pdf, id=3473, page=1, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 1>
 Package pdftex.def Info: IRB.pdf, page1 used on input line 263.
@@ -1833,7 +1833,7 @@ Package pdftex.def Info: IRB.pdf, page1 used on input line 263.
  [161
 
 
-] <IRB.pdf, id=3476, page=2, 614.295pt x 794.97pt>
+] <IRB.pdf, id=3478, page=2, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 2>
 Package pdftex.def Info: IRB.pdf, page2 used on input line 263.
@@ -1876,16 +1876,16 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 285.
 Here is how much of TeX's memory you used:
  32955 strings out of 493089
  642700 string characters out of 6134842
- 728301 words of memory out of 5000000
+ 728299 words of memory out of 5000000
  34899 multiletter control sequences out of 15000+600000
  218935 words of font info for 280 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  64i,27n,60p,10397b,17965s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri12.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.pdf (196 pages, 61991462 bytes).
+Output written on /Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.pdf (196 pages, 62010395 bytes).
 PDF statistics:
- 4016 PDF objects out of 4296 (max. 8388607)
+ 4018 PDF objects out of 4296 (max. 8388607)
  3252 compressed objects within 33 object streams
  643 named destinations out of 1000 (max. 500000)
  60258 words of extra memory for PDF output out of 61914 (max. 10000000)
