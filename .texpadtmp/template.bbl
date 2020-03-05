@@ -132,6 +132,10 @@ N.~J. Pelc, M.~A. Bernstein, A.~Shimakawa, and G.~H. Glover, ``{Encoding
   strategies for three-direction phase-contrast MR imaging of flow},'' {\em
   Journal of Magnetic Resonance Imaging}, vol.~1, pp.~405--413, July 1991.
 
+\bibitem{LabView}
+V.~Malis, ``Force{G}uide{T}rigger.''
+\newblock \url{https://github.com/vmalis/LV_ForceGuide}.
+
 \bibitem{RNS1}
 S.~C. Bodine, ``{Disuse-induced muscle wasting},'' {\em The international
   journal of biochemistry {\&} cell biology}, vol.~45, pp.~2200--2208, Oct.
@@ -266,6 +270,10 @@ D.~D. Shin, J.~A. Hodgson, V.~R. Edgerton, and S.~Sinha, ``{In vivo
   during plantarflexion and dorsiflexion of the foot},'' {\em Journal of
   applied physiology (Bethesda, Md. : 1985)}, vol.~107, pp.~1276--1284, Oct.
   2009.
+
+\bibitem{2DSR}
+V.~Malis, ``2{D}\_{VEPC}\_{SR}.''
+\newblock \url{https://github.com/vmalis/2D_VEPC_SR}.
 
 \bibitem{RNS25}
 M.~R. Harwell, E.~N. Rubinstein, W.~S. Hayes, and C.~C. Olds, ``{Summarizing
@@ -590,6 +598,10 @@ J.~Hutter, P.~Schmitt, M.~Saake, A.~Stubinger, R.~Grimm, C.~Forman, A.~Greiser,
   {\em Medical Imaging, IEEE Transactions on}, vol.~34, pp.~400--414, Feb.
   2015.
 
+\bibitem{3DSR}
+V.~Malis, ``3{D}\_{VEPC}\_{SR}\_{CS}.''
+\newblock \url{https://github.com/vmalis/3D_VEPC_SR_CS}.
+
 \bibitem{Fick}
 A.~Fick, ``{Ueber Diffusion},'' {\em Annalen der Physik}, vol.~170, no.~1,
   pp.~59--86, 1855.
@@ -720,6 +732,10 @@ A.~Rosset, L.~Spadola, and O.~Ratib, ``{OsiriX: An Open-Source Software for
   Navigating in Multidimensional DICOM Images},'' {\em Journal of Digital
   Imaging}, vol.~17, pp.~205--216, June 2004.
 
+\bibitem{DTI}
+V.~Malis, ``{DiffusionTensor\_processing}.''
+\newblock \url{https://github.com/vmalis/DiffusionTensor_processing}.
+
 \bibitem{RND23}
 M.~Jenkinson, C.~F. Beckmann, T.~E.~J. Behrens, M.~W. Woolrich, and S.~M.
   Smith, ``{FSL},'' {\em NeuroImage}, vol.~62, pp.~782--790, Aug. 2012.
@@ -738,6 +754,10 @@ S.~Aja-Fern{\'a}ndez, M.~Niethammer, M.~Kubicki, M.~E. Shenton, and C.-F.
 G.~Saab, R.~T. Thompson, and G.~D. Marsh, ``{Multicomponent T2 relaxation of in
   vivo skeletal muscle},'' {\em Magnetic Resonance in Medicine}, vol.~42,
   pp.~150--157, July 1999.
+
+\bibitem{BiComp}
+V.~Malis, ``Bi{C}omp{D}iffusion.''
+\newblock \url{https://github.com/vmalis/BiCompDiffusion}.
 
 \bibitem{KARGER19881}
 J.~K{\"a}rger, H.~Pfeifer, and W.~Heink, ``Principles and application of

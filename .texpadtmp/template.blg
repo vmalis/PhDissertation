@@ -13,6 +13,16 @@ The style file: ieeetr.bst
 Database file #1: ../template.bib
 Warning--entry type for "Leroux:1990tk" isn't style-file defined
 --line 1136 of file ../template.bib
+Warning--entry type for "DTI" isn't style-file defined
+--line 1528 of file ../template.bib
+Warning--entry type for "2DSR" isn't style-file defined
+--line 1537 of file ../template.bib
+Warning--entry type for "3DSR" isn't style-file defined
+--line 1546 of file ../template.bib
+Warning--entry type for "BiComp" isn't style-file defined
+--line 1555 of file ../template.bib
+Warning--entry type for "LabView" isn't style-file defined
+--line 1564 of file ../template.bib
 Warning--empty journal in RNS6
 Warning--empty journal in RNS19
 Warning--empty publisher in RNS26
@@ -27,36 +37,36 @@ Warning--can't use both author and editor fields in DerekKJones
 Warning--empty title in DerekKJones
 Warning--empty journal in RND6
 Warning--empty booktitle in KARGER19881
-You've used 145 entries,
+You've used 150 entries,
             1876 wiz_defined-function locations,
-            1429 strings with 34085 characters,
-and the built_in function-call counts, 48378 in all, are:
-= -- 4957
-> -- 2065
+            1451 strings with 34498 characters,
+and the built_in function-call counts, 49018 in all, are:
+= -- 5022
+> -- 2085
 < -- 0
-+ -- 744
-- -- 599
-* -- 3820
-:= -- 6740
-add.period$ -- 154
-call.type$ -- 145
-change.case$ -- 139
++ -- 754
+- -- 604
+* -- 3835
+:= -- 6825
+add.period$ -- 159
+call.type$ -- 150
+change.case$ -- 144
 chr.to.int$ -- 0
-cite$ -- 159
-duplicate$ -- 2255
-empty$ -- 3960
-format.name$ -- 599
-if$ -- 11576
+cite$ -- 164
+duplicate$ -- 2275
+empty$ -- 4050
+format.name$ -- 604
+if$ -- 11746
 int.to.chr$ -- 0
-int.to.str$ -- 145
+int.to.str$ -- 150
 missing$ -- 149
-newline$ -- 447
-num.names$ -- 147
-pop$ -- 246
+newline$ -- 467
+num.names$ -- 152
+pop$ -- 286
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1975
+skip$ -- 1990
 stack$ -- 0
 substring$ -- 4045
 swap$ -- 1185
@@ -65,7 +75,7 @@ text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 14
-while$ -- 521
-width$ -- 148
-write$ -- 1443
-(There were 15 warnings)
+while$ -- 526
+width$ -- 153
+write$ -- 1483
+(There were 20 warnings)

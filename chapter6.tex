@@ -95,7 +95,16 @@ Automated interpolation was performed for the intervening slices; all automated 
 %---------------------------------------------------------
 \subsubsection{Image preprocessing and DTI indices computation}
 %---------------------------------------------------------
-Figure~\ref{fig: DTI-flowchart} is the flowchart of the sequence of image processing steps.
+Figure~\ref{fig: DTI-flowchart} is the flowchart of the sequence of image processing steps~\cite{DTI}.
+%*********************************************************
+\begin{figure}[!h]
+\vspace{+0.2cm}
+\centering
+\includegraphics[width=0.9\textwidth]{Figures/DTI_flowchart.pdf}
+\caption[The image processing flowchart showing the sequence of steps leading to the extraction of the diffusion tensor indices]{The image processing flowchart showing the sequence of steps leading to the extraction of the diffusion tensor indices.}
+\label{fig: DTI-flowchart}
+\end{figure}
+%*********************************************************
 All diffusion weighted image volumes were registered to the baseline ($b=0$) image to correct for eddy currents and motion related artifacts using the \textit{eddy} algorithm from FSL~\cite{RND23}. 
 The phase images of the dual echo (FGRE) volumes were used to correct for $B_0$ field inhomogeneities using the \textit{fugue} algorithm from FSL~\cite{RND23}.
 Diffusion weighted images were then denoised using a Joint Rician Linear Minimum Mean Square Error (LMMSE) estimator~\cite{RND24}. 
@@ -104,17 +113,8 @@ The tensor was calculated from the distortion corrected and denoised data using 
 The tensor was then diagonalized to yield the eigenvalues followed by the calculation of the fractional anisotropy (FA), apparent diffusion coefficient (ADC) and coefficient of planarity (CP) maps. 
 The contour of the MG traced in the FGRE volume slices was transferred to the DTI indices map.
 Average values of the DTI indices were obtained from a $5 \times 5$ region of interest (ROI) automatically placed at the centroid of the MG mask at each anatomical slice (in most subjects, 40 axial slices were required to cover the MG); this placement ensured that the ROI was not at the edges which would bias estimates due to partial volume effects. 
-A manual check was also made to ensure that the ROI was not in the region of a blood vessel, fascia or contained artifacts; such ROIs were moved manually to avoid artifacts. 
-Though the ROI was small at 25 pixels/slice, the total number of pixels across all slices was $\approx 900 (25 \times 36)$ ensuring the robustness of the DTI indices. 
-%*********************************************************
-\begin{figure}[!htb]
-\vspace{+0.2cm}
-\centering
-\includegraphics[width=0.9\textwidth]{Figures/DTI_flowchart.pdf}
-\caption[The image processing flowchart showing the sequence of steps leading to the extraction of the diffusion tensor indices]{The image processing flowchart showing the sequence of steps leading to the extraction of the diffusion tensor indices.}
-\label{fig: DTI-flowchart}
-\end{figure}
-%*********************************************************
+A manual check was also made to ensure that the ROI was not in the region of a blood vessel, fascia or contained artifacts; such ROIs were manually adjusted. 
+Though the ROI was small at 25 pixels/slice, the total number of pixels across all slices was $\approx 900 (25 \times 36)$. 
 %---------------------------------------------------------
 \subsubsection{Simulation}
 %---------------------------------------------------------
@@ -137,7 +137,7 @@ Based on the findings from imaging that \% connective tissue fraction does not c
 The experimental values of the eigenvalues ($\lambda_{i,\mathrm{expr}}$) used in obtaining the optimal solution from the simulation were the mean values of all the subjects for pre- and post-suspension. 
 The optimization was performed in Wolfram Research, Inc., Mathematica, (Version 11.3, Champaign, IL). 
 The conjugate gradient search algorithm was used to find the parameters that minimize NRMSE. 
-As this method only guarantees a local minimum, the global minimum was obtained by a search performed over all combinations of the five-parameter space; the range and step size of the search space are provided in Table~\ref{tab: Karger2}.
+As this method only guarantees a local minimum, the global minimum was obtained by a search performed over all combinations of the five-parameter space~\cite{BiComp}; the range and step size of the search space are provided in Table~\ref{tab: Karger2}.
 %=========================================================
 \begin{table}[!htb]
 \vspace{+0.2cm}

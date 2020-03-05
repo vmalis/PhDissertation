@@ -8,100 +8,100 @@
 \contentsline {frontmatter}{\numberline {}Vita}{xiv}{section*.8}
 \contentsline {frontmatter}{\numberline {}Abstract of the Dissertation}{xviii}{section*.9}
 \contentsline {chapter}{\numberline {Chapter\nobreakspace {}1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}2}Fundamentals of MRI}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Larmor Precession}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Population of Energy States}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Bloch Equations}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Building Blocks of MRI Pulse Sequences}{9}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}RF-pulses}{10}{subsection.2.4.1}
-\contentsline {subsubsection}{SINC pulses}{11}{section*.11}
-\contentsline {subsubsection}{The Shinnar-Le Roux (SLR) pulse}{11}{section*.12}
-\contentsline {subsubsection}{Spectral Spatial Excitation Pulses (SPSP)}{14}{section*.15}
-\contentsline {subsection}{\numberline {2.4.2}Gradients}{17}{subsection.2.4.2}
-\contentsline {subsubsection}{Imaging gradients}{18}{section*.19}
-\contentsline {subsubsection}{Motion-Sensitizing}{20}{section*.21}
-\contentsline {subsubsection}{Spoiler and Crusher}{20}{section*.22}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}3}\textit {In-vivo} Measurements of Strain Rate Tensor in Human Muscle}{21}{chapter.3}
-\contentsline {section}{\numberline {3.1}Velocity Encoded Phase-Contrast Imaging}{21}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Velocity Measurements}{22}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Pulse Sequence Implementation}{23}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Experimental Setup}{26}{subsection.3.1.3}
-\contentsline {section}{\numberline {3.2}Changes in Strain Rate Indices due to Loss of Muscle Force Following Disuse Atrophy}{28}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Methods}{30}{subsection.3.2.1}
-\contentsline {subsubsection}{Ethical approval-subjects}{30}{section*.26}
-\contentsline {subsubsection}{Study design}{31}{section*.27}
-\contentsline {subsubsection}{Image analysis}{33}{section*.28}
-\contentsline {subsection}{\numberline {3.2.2}Results}{39}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Discussion and Conclusion}{46}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Shear Strain Rate From Velocity Encoded Phase-Contrast Imaging to Study Effects of Aging in Medial Gastrocnemius Muscle}{53}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Methods}{54}{subsection.3.3.1}
-\contentsline {subsubsection}{Subjects}{54}{section*.41}
-\contentsline {subsubsection}{MR imaging}{54}{section*.42}
-\contentsline {subsubsection}{Force measurements}{55}{section*.43}
-\contentsline {subsection}{\numberline {3.3.2}Computation of the Strain Rate Tensor }{55}{subsection.3.3.2}
-\contentsline {subsubsection}{Strain rate (SR) calculation in the principal basis}{55}{section*.44}
-\contentsline {subsubsection}{Muscle fiber tracking}{55}{section*.45}
-\contentsline {subsubsection}{Strain rate in the fiber basis}{56}{section*.46}
-\contentsline {subsubsection}{Strain rate tensor in the maximum shear strain rate basis}{56}{section*.48}
-\contentsline {subsubsection}{ROI measurements}{58}{section*.50}
-\contentsline {subsubsection}{Statistical analyses}{58}{section*.51}
-\contentsline {subsection}{\numberline {3.3.3}Results}{59}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Discussion}{62}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Conclusion}{67}{subsection.3.3.5}
-\contentsline {section}{\numberline {3.4}Acknowledgments}{68}{section.3.4}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}4}Compressed Sensing Velocity Encoded Phase-Contrast Imaging}{69}{chapter.4}
-\contentsline {section}{\numberline {4.1}Compressed Sensing}{69}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Data Sparsity and Undersampling}{70}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Incoherent Measurements and Random Sampling}{71}{subsection.4.1.2}
-\contentsline {subsubsection}{Incoherence}{72}{section*.60}
-\contentsline {subsubsection}{Restricted isometry property}{73}{section*.61}
-\contentsline {subsection}{\numberline {4.1.3}Solution to the Constrained Optimization Problem}{74}{subsection.4.1.3}
-\contentsline {subsubsection}{Nonlinear conjugate gradient method}{75}{section*.63}
-\contentsline {section}{\numberline {4.2}Application of Compressed Sensing Methods for Monitoring Skeletal Muscle Kinematics}{77}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Methods}{80}{subsection.4.2.1}
-\contentsline {subsubsection}{Velocity encoded phase-contrast pulse sequence}{80}{section*.64}
-\contentsline {subsubsection}{Compressed sensing}{81}{section*.65}
-\contentsline {subsubsection}{Static and flow phantom}{85}{section*.68}
-\contentsline {subsubsection}{\textit {In-vivo} human subject imaging: }{86}{section*.70}
-\contentsline {subsubsection}{Magnetic resonance imaging}{87}{section*.71}
-\contentsline {subsubsection}{Image and Statistical Analysis}{88}{section*.72}
-\contentsline {subsection}{\numberline {4.2.2}Results}{89}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Discussion}{100}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Study of Age Related Difference in Strain Indices}{108}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Methods}{109}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Results}{111}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Discussion}{115}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Conclusions}{115}{subsection.4.3.4}
-\contentsline {section}{\numberline {4.4}Acknowledgments}{115}{section.4.4}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}5}Diffusion Tensor Imaging}{116}{chapter.5}
-\contentsline {section}{\numberline {5.1}Brownian Motion and Einstein Relation}{116}{section.5.1}
-\contentsline {section}{\numberline {5.2}Bloch-Torrey Equations and Diffusion Tensor}{120}{section.5.2}
-\contentsline {section}{\numberline {5.3}Echo Planar Imaging (EPI)}{123}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Stimulated Echo Acquisition Mode (STEAM)}{125}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Correction to the \textit {b}-matrix}{127}{subsection.5.3.2}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}6}Diffusion Modeling to Study Microarchitecture in Human Skeletal Muscles}{131}{chapter.6}
-\contentsline {section}{\numberline {6.1}Monitoring Changes in the Medial Gastrocnemius in Disuse Atrophy Induced by Unilateral Limb Suspension}{132}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Methods}{133}{subsection.6.1.1}
-\contentsline {subsubsection}{\textit {In-vivo} experiments}{133}{section*.97}
-\contentsline {subsubsection}{Study design}{133}{section*.98}
-\contentsline {subsubsection}{Unilateral Limb Suspension (ULLS)}{134}{section*.99}
-\contentsline {subsubsection}{MR imaging}{134}{section*.100}
-\contentsline {subsubsection}{Force measurements}{136}{section*.101}
-\contentsline {subsubsection}{Muscle volume measurements}{136}{section*.102}
-\contentsline {subsubsection}{Image preprocessing and DTI indices computation}{136}{section*.103}
-\contentsline {subsubsection}{Simulation}{137}{section*.105}
-\contentsline {subsubsection}{Statistical analysis}{139}{section*.107}
-\contentsline {subsection}{\numberline {6.1.2}Bicompartmental Diffusion Model with Exchange}{140}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Results}{143}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}Discussion}{146}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}Conclusion}{151}{subsection.6.1.5}
-\contentsline {section}{\numberline {6.2}Random Permeable Barrier Modeling of Age Induced Changes in the Time Dependent Diffusion Eigenvalues}{152}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Random Permeable Barrier Model}{152}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Materials and Methods}{153}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Results}{155}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Discussion}{156}{subsection.6.2.4}
-\contentsline {subsection}{\numberline {6.2.5}Conclusions}{158}{subsection.6.2.5}
-\contentsline {section}{\numberline {6.3}Acknowledgments}{158}{section.6.3}
-\contentsline {chapter}{\numberline {Chapter\nobreakspace {}7}Conclusion: Summary of the Developed Methods and Application in Future Studies.}{159}{chapter.7}
-\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Institutional Review Board Approval}{161}{appendix.A}
-\contentsline {backmatter}{Bibliography}{164}{appendix*.118}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}2}Fundamentals of MRI}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Larmor Precession}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Population of Energy States}{9}{section.2.2}
+\contentsline {section}{\numberline {2.3}Bloch Equations}{10}{section.2.3}
+\contentsline {section}{\numberline {2.4}Building Blocks of MRI Pulse Sequences}{13}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}RF-pulses}{14}{subsection.2.4.1}
+\contentsline {subsubsection}{SINC pulses}{15}{section*.11}
+\contentsline {subsubsection}{The Shinnar-Le Roux (SLR) pulse}{15}{section*.12}
+\contentsline {subsubsection}{Spectral Spatial Excitation Pulses (SPSP)}{18}{section*.15}
+\contentsline {subsection}{\numberline {2.4.2}Gradients}{21}{subsection.2.4.2}
+\contentsline {subsubsection}{Imaging gradients}{22}{section*.19}
+\contentsline {subsubsection}{Motion-Sensitizing}{24}{section*.21}
+\contentsline {subsubsection}{Spoiler and Crusher}{24}{section*.22}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}3}\textit {In-vivo} Measurements of Strain Rate Tensor in Human Muscle}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Velocity Encoded Phase-Contrast Imaging}{25}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Velocity Measurements}{26}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Pulse Sequence Implementation}{27}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Experimental Setup}{30}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Changes in Strain Rate Indices due to Loss of Muscle Force Following Disuse Atrophy}{32}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Methods}{34}{subsection.3.2.1}
+\contentsline {subsubsection}{Ethical approval-subjects}{34}{section*.26}
+\contentsline {subsubsection}{Study design}{35}{section*.27}
+\contentsline {subsubsection}{Image analysis}{37}{section*.28}
+\contentsline {subsection}{\numberline {3.2.2}Results}{43}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Discussion and Conclusion}{51}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Shear Strain Rate From Velocity Encoded Phase-Contrast Imaging to Study Effects of Aging in Medial Gastrocnemius Muscle}{58}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Methods}{59}{subsection.3.3.1}
+\contentsline {subsubsection}{Subjects}{59}{section*.41}
+\contentsline {subsubsection}{MR imaging}{59}{section*.42}
+\contentsline {subsubsection}{Force measurements}{60}{section*.43}
+\contentsline {subsection}{\numberline {3.3.2}Computation of the Strain Rate Tensor }{60}{subsection.3.3.2}
+\contentsline {subsubsection}{Strain rate (SR) calculation in the principal basis}{60}{section*.44}
+\contentsline {subsubsection}{Muscle fiber tracking}{60}{section*.45}
+\contentsline {subsubsection}{Strain rate in the fiber basis}{61}{section*.46}
+\contentsline {subsubsection}{Strain rate tensor in the maximum shear strain rate basis}{61}{section*.48}
+\contentsline {subsubsection}{ROI measurements}{63}{section*.50}
+\contentsline {subsubsection}{Statistical analyses}{63}{section*.51}
+\contentsline {subsection}{\numberline {3.3.3}Results}{64}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Discussion}{67}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Conclusion}{72}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Acknowledgments}{73}{section.3.4}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}4}Compressed Sensing Velocity Encoded Phase-Contrast Imaging}{74}{chapter.4}
+\contentsline {section}{\numberline {4.1}Compressed Sensing}{74}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Data Sparsity and Undersampling}{75}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Incoherent Measurements and Random Sampling}{76}{subsection.4.1.2}
+\contentsline {subsubsection}{Incoherence}{77}{section*.60}
+\contentsline {subsubsection}{Restricted isometry property}{78}{section*.61}
+\contentsline {subsection}{\numberline {4.1.3}Solution to the Constrained Optimization Problem}{79}{subsection.4.1.3}
+\contentsline {subsubsection}{Nonlinear conjugate gradient method}{80}{section*.63}
+\contentsline {section}{\numberline {4.2}Application of Compressed Sensing Methods for Monitoring Skeletal Muscle Kinematics}{82}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Methods}{85}{subsection.4.2.1}
+\contentsline {subsubsection}{Velocity encoded phase-contrast pulse sequence}{85}{section*.64}
+\contentsline {subsubsection}{Compressed sensing}{86}{section*.65}
+\contentsline {subsubsection}{Static and flow phantom}{90}{section*.68}
+\contentsline {subsubsection}{\textit {In-vivo} human subject imaging: }{91}{section*.70}
+\contentsline {subsubsection}{Magnetic resonance imaging}{92}{section*.71}
+\contentsline {subsubsection}{Image and Statistical Analysis}{93}{section*.72}
+\contentsline {subsection}{\numberline {4.2.2}Results}{94}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Discussion}{105}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Study of Age Related Difference in Strain Indices}{113}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Methods}{114}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Results}{116}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Discussion}{118}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Conclusions}{118}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}Acknowledgments}{118}{section.4.4}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}5}Diffusion Tensor Imaging}{122}{chapter.5}
+\contentsline {section}{\numberline {5.1}Brownian Motion and Einstein Relation}{122}{section.5.1}
+\contentsline {section}{\numberline {5.2}Bloch-Torrey Equations and Diffusion Tensor}{126}{section.5.2}
+\contentsline {section}{\numberline {5.3}Echo Planar Imaging (EPI)}{129}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Stimulated Echo Acquisition Mode (STEAM)}{131}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Correction to the \textit {b}-matrix}{133}{subsection.5.3.2}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}6}Diffusion Modeling to Study Microarchitecture in Human Skeletal Muscles}{137}{chapter.6}
+\contentsline {section}{\numberline {6.1}Monitoring Changes in the Medial Gastrocnemius in Disuse Atrophy Induced by Unilateral Limb Suspension}{138}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Methods}{139}{subsection.6.1.1}
+\contentsline {subsubsection}{\textit {In-vivo} experiments}{139}{section*.97}
+\contentsline {subsubsection}{Study design}{139}{section*.98}
+\contentsline {subsubsection}{Unilateral Limb Suspension (ULLS)}{140}{section*.99}
+\contentsline {subsubsection}{MR imaging}{140}{section*.100}
+\contentsline {subsubsection}{Force measurements}{142}{section*.101}
+\contentsline {subsubsection}{Muscle volume measurements}{142}{section*.102}
+\contentsline {subsubsection}{Image preprocessing and DTI indices computation}{142}{section*.103}
+\contentsline {subsubsection}{Simulation}{144}{section*.105}
+\contentsline {subsubsection}{Statistical analysis}{145}{section*.107}
+\contentsline {subsection}{\numberline {6.1.2}Bicompartmental Diffusion Model with Exchange}{146}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Results}{149}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Discussion}{152}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Conclusion}{157}{subsection.6.1.5}
+\contentsline {section}{\numberline {6.2}Random Permeable Barrier Modeling of Age Induced Changes in the Time Dependent Diffusion Eigenvalues}{158}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Random Permeable Barrier Model}{158}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Materials and Methods}{159}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Results}{161}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Discussion}{162}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Conclusions}{164}{subsection.6.2.5}
+\contentsline {section}{\numberline {6.3}Acknowledgments}{164}{section.6.3}
+\contentsline {chapter}{\numberline {Chapter\nobreakspace {}7}Conclusion: Summary of the Developed Methods and Application in Future Studies.}{165}{chapter.7}
+\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Institutional Review Board Approval}{167}{appendix.A}
+\contentsline {backmatter}{Bibliography}{170}{appendix*.118}
