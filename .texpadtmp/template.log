@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 MAR 2020 06:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 MAR 2020 15:11
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1406,27 +1406,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--161
 
  []
 
-[11] [12] [13] [14] [15] <Figures/SLR.pdf, id=615, 794.97pt x 325.215pt>
+[11] [12] [13] [14] [15] <Figures/SLR.pdf, id=624, 794.97pt x 325.215pt>
 File: Figures/SLR.pdf Graphic file (type pdf)
  <use Figures/SLR.pdf>
 Package pdftex.def Info: Figures/SLR.pdf used on input line 302.
 (pdftex.def)             Requested size: 357.7332pt x 146.3454pt.
- [16 <./Figures/SLR.pdf>] [17] <Figures/SPSP.pdf, id=661, 794.97pt x 451.95572pt>
+ [16 <./Figures/SLR.pdf>] [17] <Figures/SPSP.pdf, id=670, 794.97pt x 451.95572pt>
 File: Figures/SPSP.pdf Graphic file (type pdf)
  <use Figures/SPSP.pdf>
 Package pdftex.def Info: Figures/SPSP.pdf used on input line 420.
 (pdftex.def)             Requested size: 278.24367pt x 158.18686pt.
- [18] [19 <./Figures/SPSP.pdf>] [20] <Figures/ProtonGradient.pdf, id=716, 650.244pt x 304.00888pt>
+ [18] [19 <./Figures/SPSP.pdf>] [20] <Figures/ProtonGradient.pdf, id=725, 650.244pt x 304.00888pt>
 File: Figures/ProtonGradient.pdf Graphic file (type pdf)
  <use Figures/ProtonGradient.pdf>
 Package pdftex.def Info: Figures/ProtonGradient.pdf used on input line 485.
 (pdftex.def)             Requested size: 260.09299pt x 121.60138pt.
- [21 <./Figures/ProtonGradient.pdf>] <Figures/Trapezoid.pdf, id=736, 517.69128pt x 246.0875pt>
+ [21 <./Figures/ProtonGradient.pdf>] <Figures/Trapezoid.pdf, id=746, 517.69128pt x 246.0875pt>
 File: Figures/Trapezoid.pdf Graphic file (type pdf)
  <use Figures/Trapezoid.pdf>
 Package pdftex.def Info: Figures/Trapezoid.pdf used on input line 508.
 (pdftex.def)             Requested size: 248.48898pt x 118.12065pt.
- [22 <./Figures/Trapezoid.pdf>] <Figures/PhaseEncode.pdf, id=759, 476.5244pt x 378.50862pt>
+ [22 <./Figures/Trapezoid.pdf>] <Figures/PhaseEncode.pdf, id=768, 476.5244pt x 378.50862pt>
 File: Figures/PhaseEncode.pdf Graphic file (type pdf)
  <use Figures/PhaseEncode.pdf>
 Package pdftex.def Info: Figures/PhaseEncode.pdf used on input line 526.
@@ -1440,22 +1440,22 @@ Chapter 3.
 
 
 
-] [26] <Figures/VEPC_FlowCompensations.pdf, id=813, 380.89923pt x 222.29721pt>
+] [26] <Figures/VEPC_FlowCompensations.pdf, id=822, 380.89923pt x 222.29721pt>
 File: Figures/VEPC_FlowCompensations.pdf Graphic file (type pdf)
  <use Figures/VEPC_FlowCompensations.pdf>
 Package pdftex.def Info: Figures/VEPC_FlowCompensations.pdf used on input line 80.
 (pdftex.def)             Requested size: 390.08049pt x 227.66615pt.
- [27] <Figures/VEPC.pdf, id=822, 537.54071pt x 377.07936pt>
+ [27] <Figures/VEPC.pdf, id=831, 537.54071pt x 377.07936pt>
 File: Figures/VEPC.pdf Graphic file (type pdf)
  <use Figures/VEPC.pdf>
 Package pdftex.def Info: Figures/VEPC.pdf used on input line 101.
 (pdftex.def)             Requested size: 537.5394pt x 377.07843pt.
- [28 <./Figures/VEPC_FlowCompensations.pdf>] [29 <./Figures/VEPC.pdf>] <Figures/Setup.pdf, id=869, 418.26996pt x 452.52985pt>
+ [28 <./Figures/VEPC_FlowCompensations.pdf>] [29 <./Figures/VEPC.pdf>] <Figures/Setup.pdf, id=878, 418.26996pt x 452.52985pt>
 File: Figures/Setup.pdf Graphic file (type pdf)
  <use Figures/Setup.pdf>
 Package pdftex.def Info: Figures/Setup.pdf used on input line 129.
 (pdftex.def)             Requested size: 458.91493pt x 496.52074pt.
- [30] [31 <./Figures/Setup.pdf>] [32] [33] [34] [35] [36] [37] [38] <Figures/SR2dSchematic.pdf, id=996, 498.08633pt x 283.81062pt>
+ [30] [31 <./Figures/Setup.pdf>] [32] [33] [34] [35] [36] [37] [38] <Figures/SR2dSchematic.pdf, id=1004, 498.08633pt x 283.81062pt>
 File: Figures/SR2dSchematic.pdf Graphic file (type pdf)
  <use Figures/SR2dSchematic.pdf>
 Package pdftex.def Info: Figures/SR2dSchematic.pdf used on input line 289.
@@ -1490,27 +1490,27 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.17996> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 374.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <3.7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 374.
- <Figures/ULLSColormaps.pdf, id=1058, 1806.75pt x 1192.455pt>
+ <Figures/ULLSColormaps.pdf, id=1065, 1806.75pt x 1192.455pt>
 File: Figures/ULLSColormaps.pdf Graphic file (type pdf)
  <use Figures/ULLSColormaps.pdf>
 Package pdftex.def Info: Figures/ULLSColormaps.pdf used on input line 391.
 (pdftex.def)             Requested size: 413.02063pt x 272.5849pt.
- <Figures/ULLS_fiberAngle.pdf, id=1061, 712.6625pt x 552.0625pt>
+ <Figures/ULLS_fiberAngle.pdf, id=1068, 712.6625pt x 552.0625pt>
 File: Figures/ULLS_fiberAngle.pdf Graphic file (type pdf)
  <use Figures/ULLS_fiberAngle.pdf>
 Package pdftex.def Info: Figures/ULLS_fiberAngle.pdf used on input line 401.
 (pdftex.def)             Requested size: 458.91493pt x 355.49213pt.
- <Figures/ULLS_SRfiber.pdf, id=1062, 758.835pt x 816.65097pt>
+ <Figures/ULLS_SRfiber.pdf, id=1069, 758.835pt x 816.65097pt>
 File: Figures/ULLS_SRfiber.pdf Graphic file (type pdf)
  <use Figures/ULLS_SRfiber.pdf>
 Package pdftex.def Info: Figures/ULLS_SRfiber.pdf used on input line 410.
 (pdftex.def)             Requested size: 458.91493pt x 493.88222pt.
- <Figures/ULLS_Streamlines.pdf, id=1066, 1626.075pt x 1156.32pt>
+ <Figures/ULLS_Streamlines.pdf, id=1073, 1626.075pt x 1156.32pt>
 File: Figures/ULLS_Streamlines.pdf Graphic file (type pdf)
  <use Figures/ULLS_Streamlines.pdf>
 Package pdftex.def Info: Figures/ULLS_Streamlines.pdf used on input line 423.
 (pdftex.def)             Requested size: 413.02063pt x 293.70201pt.
- [43] [44 <./Figures/ULLSColormaps.pdf>] <Figures/ULLS_SRff.pdf, id=1118, 704.40747pt x 529.61603pt>
+ [43] [44 <./Figures/ULLSColormaps.pdf>] <Figures/ULLS_SRff.pdf, id=1125, 704.40747pt x 529.61603pt>
 File: Figures/ULLS_SRff.pdf Graphic file (type pdf)
  <use Figures/ULLS_SRff.pdf>
 Package pdftex.def Info: Figures/ULLS_SRff.pdf used on input line 440.
@@ -1525,12 +1525,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [50] [51
 
 
-] [52] [53] [54] [55] [56] [57] [58] [59] [60] <Figures/SRYO_Schematic.pdf, id=1339, 641.07468pt x 405.23515pt>
+] [52] [53] [54] [55] [56] [57] [58] [59] [60] <Figures/SRYO_Schematic.pdf, id=1346, 641.07468pt x 405.23515pt>
 File: Figures/SRYO_Schematic.pdf Graphic file (type pdf)
  <use Figures/SRYO_Schematic.pdf>
 Package pdftex.def Info: Figures/SRYO_Schematic.pdf used on input line 722.
 (pdftex.def)             Requested size: 384.64777pt x 243.14296pt.
- <Figures/SRYO_error.pdf, id=1343, 1300.86pt x 650.43pt>
+ <Figures/SRYO_error.pdf, id=1350, 1300.86pt x 650.43pt>
 File: Figures/SRYO_error.pdf Graphic file (type pdf)
  <use Figures/SRYO_error.pdf>
 Package pdftex.def Info: Figures/SRYO_error.pdf used on input line 737.
@@ -1542,17 +1542,17 @@ LaTeX Warning: Text page 62 contains only floats.
 
 Overfull \vbox (3.78577pt too high) has occurred while \output is active []
 
- [62 <./Figures/SRYO_Schematic.pdf> <./Figures/SRYO_error.pdf>] [63] <Figures/SRYO_SRColormaps1.pdf, id=1417, 2312.64pt x 2312.64pt>
+ [62 <./Figures/SRYO_Schematic.pdf> <./Figures/SRYO_error.pdf>] [63] <Figures/SRYO_SRColormaps1.pdf, id=1424, 2312.64pt x 2312.64pt>
 File: Figures/SRYO_SRColormaps1.pdf Graphic file (type pdf)
  <use Figures/SRYO_SRColormaps1.pdf>
 Package pdftex.def Info: Figures/SRYO_SRColormaps1.pdf used on input line 770.
 (pdftex.def)             Requested size: 275.35175pt x 275.35226pt.
- <Figures/SRYO_SRColormaps2.pdf, id=1418, 2312.64pt x 2312.64pt>
+ <Figures/SRYO_SRColormaps2.pdf, id=1425, 2312.64pt x 2312.64pt>
 File: Figures/SRYO_SRColormaps2.pdf Graphic file (type pdf)
  <use Figures/SRYO_SRColormaps2.pdf>
 Package pdftex.def Info: Figures/SRYO_SRColormaps2.pdf used on input line 779.
 (pdftex.def)             Requested size: 275.35175pt x 275.35226pt.
- <Figures/SRYO_SRtemporal.pdf, id=1420, 1084.05pt x 1300.86pt>
+ <Figures/SRYO_SRtemporal.pdf, id=1427, 1084.05pt x 1300.86pt>
 File: Figures/SRYO_SRtemporal.pdf Graphic file (type pdf)
  <use Figures/SRYO_SRtemporal.pdf>
 Package pdftex.def Info: Figures/SRYO_SRtemporal.pdf used on input line 789.
@@ -1566,12 +1566,12 @@ Chapter 4.
 
 
 
-] <Figures/CS2.pdf, id=1600, 757.3896pt x 289.08pt>
+] <Figures/CS2.pdf, id=1607, 757.3896pt x 289.08pt>
 File: Figures/CS2.pdf Graphic file (type pdf)
  <use Figures/CS2.pdf>
 Package pdftex.def Info: Figures/CS2.pdf used on input line 54.
 (pdftex.def)             Requested size: 413.02063pt x 157.6403pt.
- [75] [76 <./Figures/CS2.pdf>] [77] <Figures/CS1.pdf, id=1654, 867.24pt x 317.98799pt>
+ [75] [76 <./Figures/CS2.pdf>] [77] <Figures/CS1.pdf, id=1661, 867.24pt x 317.98799pt>
 File: Figures/CS1.pdf Graphic file (type pdf)
  <use Figures/CS1.pdf>
 Package pdftex.def Info: Figures/CS1.pdf used on input line 145.
@@ -1584,92 +1584,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
-[80] [81] [82] [83] [84] [85] <Figures/CS1_1.pdf, id=1768, 719.80919pt x 289.08pt>
+[80] [81] [82] [83] [84] [85] <Figures/CS1_1.pdf, id=1775, 719.80919pt x 289.08pt>
 File: Figures/CS1_1.pdf Graphic file (type pdf)
  <use Figures/CS1_1.pdf>
 Package pdftex.def Info: Figures/CS1_1.pdf used on input line 315.
 (pdftex.def)             Requested size: 413.02063pt x 165.87564pt.
- [86 <./Figures/CS1_1.pdf>] <Figures/CS1_2.pdf, id=1879, 699.61375pt x 345.29pt>
+ [86 <./Figures/CS1_1.pdf>] <Figures/CS1_2.pdf, id=1886, 699.61375pt x 345.29pt>
 File: Figures/CS1_2.pdf Graphic file (type pdf)
  <use Figures/CS1_2.pdf>
 Package pdftex.def Info: Figures/CS1_2.pdf used on input line 335.
 (pdftex.def)             Requested size: 413.02063pt x 203.84576pt.
- [87 <./Figures/CS1_2.pdf>] [88] [89] <Figures/CS1_3.pdf, id=1959, 2924.9275pt x 1778.645pt>
+ [87 <./Figures/CS1_2.pdf>] [88] [89] <Figures/CS1_3.pdf, id=1966, 2924.9275pt x 1778.645pt>
 File: Figures/CS1_3.pdf Graphic file (type pdf)
  <use Figures/CS1_3.pdf>
 Package pdftex.def Info: Figures/CS1_3.pdf used on input line 425.
 (pdftex.def)             Requested size: 458.91493pt x 279.05247pt.
- [90] [91 <./Figures/CS1_3.pdf>] [92] [93] <Figures/CS1_4.pdf, id=2012, 822.0359pt x 418.65999pt>
+ [90] [91 <./Figures/CS1_3.pdf>] [92] [93] <Figures/CS1_4.pdf, id=2019, 822.0359pt x 418.65999pt>
 File: Figures/CS1_4.pdf Graphic file (type pdf)
  <use Figures/CS1_4.pdf>
 Package pdftex.def Info: Figures/CS1_4.pdf used on input line 500.
 (pdftex.def)             Requested size: 458.91493pt x 233.71973pt.
- <Figures/CS1_5.pdf, id=2014, 1228.59pt x 1156.32pt>
+ <Figures/CS1_5.pdf, id=2021, 1228.59pt x 1156.32pt>
 File: Figures/CS1_5.pdf Graphic file (type pdf)
  <use Figures/CS1_5.pdf>
 Package pdftex.def Info: Figures/CS1_5.pdf used on input line 512.
 (pdftex.def)             Requested size: 208.85753pt x 196.5718pt.
- <Figures/CS1_6.pdf, id=2016, 1300.86pt x 664.88402pt>
+ <Figures/CS1_6.pdf, id=2023, 1300.86pt x 664.88402pt>
 File: Figures/CS1_6.pdf Graphic file (type pdf)
  <use Figures/CS1_6.pdf>
 Package pdftex.def Info: Figures/CS1_6.pdf used on input line 523.
 (pdftex.def)             Requested size: 413.02063pt x 211.09326pt.
- <Figures/CS1_7.pdf, id=2018, 697.60625pt x 199.74625pt>
+ <Figures/CS1_7.pdf, id=2025, 697.60625pt x 199.74625pt>
 File: Figures/CS1_7.pdf Graphic file (type pdf)
  <use Figures/CS1_7.pdf>
 Package pdftex.def Info: Figures/CS1_7.pdf used on input line 535.
 (pdftex.def)             Requested size: 614.295pt x 175.90219pt.
- [94] [95 <./Figures/CS1_4.pdf>] [96 <./Figures/CS1_5.pdf> <./Figures/CS1_6.pdf>] [97 <./Figures/CS1_7.pdf>] <Figures/CS1_8.pdf, id=2123, 1736.4875pt x 1447.4075pt>
+ [94] [95 <./Figures/CS1_4.pdf>] [96 <./Figures/CS1_5.pdf> <./Figures/CS1_6.pdf>] [97 <./Figures/CS1_7.pdf>] <Figures/CS1_8.pdf, id=2130, 1736.4875pt x 1447.4075pt>
 File: Figures/CS1_8.pdf Graphic file (type pdf)
  <use Figures/CS1_8.pdf>
 Package pdftex.def Info: Figures/CS1_8.pdf used on input line 557.
 (pdftex.def)             Requested size: 458.91493pt x 382.50105pt.
- <Figures/CS1_9.pdf, id=2125, 2136.98375pt x 1157.32375pt>
+ <Figures/CS1_9.pdf, id=2132, 2136.98375pt x 1157.32375pt>
 File: Figures/CS1_9.pdf Graphic file (type pdf)
  <use Figures/CS1_9.pdf>
 Package pdftex.def Info: Figures/CS1_9.pdf used on input line 574.
 (pdftex.def)             Requested size: 458.91493pt x 248.51955pt.
- [98] [99 <./Figures/CS1_8.pdf>] <Figures/CS1_10.pdf, id=2148, 2168.1pt x 1835.65805pt>
+ [98] [99 <./Figures/CS1_8.pdf>] <Figures/CS1_10.pdf, id=2155, 2168.1pt x 1835.65805pt>
 File: Figures/CS1_10.pdf Graphic file (type pdf)
  <use Figures/CS1_10.pdf>
 Package pdftex.def Info: Figures/CS1_10.pdf used on input line 609.
 (pdftex.def)             Requested size: 413.02063pt x 349.67497pt.
- [100 <./Figures/CS1_9.pdf>] <Figures/CS1_11.pdf, id=2162, 1011.78pt x 903.375pt>
+ [100 <./Figures/CS1_9.pdf>] <Figures/CS1_11.pdf, id=2169, 1011.78pt x 903.375pt>
 File: Figures/CS1_11.pdf Graphic file (type pdf)
  <use Figures/CS1_11.pdf>
 Package pdftex.def Info: Figures/CS1_11.pdf used on input line 626.
 (pdftex.def)             Requested size: 413.02063pt x 368.77338pt.
- <Figures/CS1_12.pdf, id=2164, 3035.34pt x 1445.4pt>
+ <Figures/CS1_12.pdf, id=2171, 3035.34pt x 1445.4pt>
 File: Figures/CS1_12.pdf Graphic file (type pdf)
  <use Figures/CS1_12.pdf>
 Package pdftex.def Info: Figures/CS1_12.pdf used on input line 640.
 (pdftex.def)             Requested size: 614.295pt x 292.51546pt.
- <Figures/CS1_13.pdf, id=2166, 1699.34875pt x 1288.815pt>
+ <Figures/CS1_13.pdf, id=2173, 1699.34875pt x 1288.815pt>
 File: Figures/CS1_13.pdf Graphic file (type pdf)
  <use Figures/CS1_13.pdf>
 Package pdftex.def Info: Figures/CS1_13.pdf used on input line 653.
 (pdftex.def)             Requested size: 458.91493pt x 348.0437pt.
- [101 <./Figures/CS1_10.pdf>] [102 <./Figures/CS1_11.pdf>] <Figures/CS1_14.pdf, id=2264, 1806.75pt x 1589.94pt>
+ [101 <./Figures/CS1_10.pdf>] [102 <./Figures/CS1_11.pdf>] <Figures/CS1_14.pdf, id=2271, 1806.75pt x 1589.94pt>
 File: Figures/CS1_14.pdf Graphic file (type pdf)
  <use Figures/CS1_14.pdf>
 Package pdftex.def Info: Figures/CS1_14.pdf used on input line 669.
 (pdftex.def)             Requested size: 413.02063pt x 363.44655pt.
- <Figures/CS1_15.pdf, id=2267, 1738.495pt x 898.35625pt>
+ <Figures/CS1_15.pdf, id=2274, 1738.495pt x 898.35625pt>
 File: Figures/CS1_15.pdf Graphic file (type pdf)
  <use Figures/CS1_15.pdf>
 Package pdftex.def Info: Figures/CS1_15.pdf used on input line 679.
 (pdftex.def)             Requested size: 458.91493pt x 237.13113pt.
- [103] [104 <./Figures/CS1_12.pdf>] [105 <./Figures/CS1_13.pdf>] [106 <./Figures/CS1_14.pdf>] [107 <./Figures/CS1_15.pdf>] [108] [109] [110] [111] [112] [113] <Figures/CS2_1.pdf, id=2460, 578.16pt x 505.89pt>
+ [103] [104 <./Figures/CS1_12.pdf>] [105 <./Figures/CS1_13.pdf>] [106 <./Figures/CS1_14.pdf>] [107 <./Figures/CS1_15.pdf>] [108] [109] [110] [111] [112] [113] <Figures/CS2_1.pdf, id=2467, 578.16pt x 505.89pt>
 File: Figures/CS2_1.pdf Graphic file (type pdf)
  <use Figures/CS2_1.pdf>
 Package pdftex.def Info: Figures/CS2_1.pdf used on input line 818.
 (pdftex.def)             Requested size: 491.43832pt x 430.00851pt.
- [114] [115 <./Figures/CS2_1.pdf>] <Figures/CS2_2.pdf, id=2570, 3974.85pt x 2168.1pt>
+ [114] [115 <./Figures/CS2_1.pdf>] <Figures/CS2_2.pdf, id=2576, 3974.85pt x 2168.1pt>
 File: Figures/CS2_2.pdf Graphic file (type pdf)
  <use Figures/CS2_2.pdf>
 Package pdftex.def Info: Figures/CS2_2.pdf used on input line 864.
 (pdftex.def)             Requested size: 614.295pt x 335.05956pt.
- <Figures/CS2_4.pdf, id=2572, 3974.85pt x 2168.1pt>
+ <Figures/CS2_4.pdf, id=2578, 3974.85pt x 2168.1pt>
 File: Figures/CS2_4.pdf Graphic file (type pdf)
  <use Figures/CS2_4.pdf>
 Package pdftex.def Info: Figures/CS2_4.pdf used on input line 877.
@@ -1684,22 +1684,22 @@ Chapter 5.
 
 
 
-] [123] [124] [125] <Figures/DiffusionPS.pdf, id=2745, 531.63928pt x 192.32492pt>
+] [123] [124] [125] <Figures/DiffusionPS.pdf, id=2751, 531.63928pt x 192.32492pt>
 File: Figures/DiffusionPS.pdf Graphic file (type pdf)
  <use Figures/DiffusionPS.pdf>
 Package pdftex.def Info: Figures/DiffusionPS.pdf used on input line 152.
 (pdftex.def)             Requested size: 458.91493pt x 166.01834pt.
- [126] [127 <./Figures/DiffusionPS.pdf>] [128] <Figures/DiffusionFA.pdf, id=2786, 395.05472pt x 168.77504pt>
+ [126] [127 <./Figures/DiffusionPS.pdf>] [128] <Figures/DiffusionFA.pdf, id=2792, 395.05472pt x 168.77504pt>
 File: Figures/DiffusionFA.pdf Graphic file (type pdf)
  <use Figures/DiffusionFA.pdf>
 Package pdftex.def Info: Figures/DiffusionFA.pdf used on input line 210.
 (pdftex.def)             Requested size: 316.04419pt x 135.0202pt.
- [129 <./Figures/DiffusionFA.pdf>] <Figures/EPI.pdf, id=2814, 1459.33904pt x 562.10098pt>
+ [129 <./Figures/DiffusionFA.pdf>] <Figures/EPI.pdf, id=2820, 1459.33904pt x 562.10098pt>
 File: Figures/EPI.pdf Graphic file (type pdf)
  <use Figures/EPI.pdf>
 Package pdftex.def Info: Figures/EPI.pdf used on input line 235.
 (pdftex.def)             Requested size: 458.91493pt x 176.76254pt.
- [130 <./Figures/EPI.pdf>] <Figures/STEAM_Phase.pdf, id=2844, 722.7pt x 686.565pt>
+ [130 <./Figures/EPI.pdf>] <Figures/STEAM_Phase.pdf, id=2850, 722.7pt x 686.565pt>
 File: Figures/STEAM_Phase.pdf Graphic file (type pdf)
  <use Figures/STEAM_Phase.pdf>
 Package pdftex.def Info: Figures/STEAM_Phase.pdf used on input line 264.
@@ -1708,7 +1708,7 @@ Package pdftex.def Info: Figures/STEAM_Phase.pdf used on input line 264.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[131] [132 <./Figures/STEAM_Phase.pdf>] <Figures/STEAM_GE.pdf, id=2876, 744.38098pt x 592.61403pt>
+[131] [132 <./Figures/STEAM_Phase.pdf>] <Figures/STEAM_GE.pdf, id=2882, 744.38098pt x 592.61403pt>
 File: Figures/STEAM_GE.pdf Graphic file (type pdf)
  <use Figures/STEAM_GE.pdf>
 Package pdftex.def Info: Figures/STEAM_GE.pdf used on input line 322.
@@ -1736,7 +1736,7 @@ Overfull \hbox (2.14172pt too wide) in paragraph at lines 14--14
 
 
 
-] [138] [139] [140] [141] <Figures/DTI_flowchart.pdf, id=2993, 438.43729pt x 162.4497pt>
+] [138] [139] [140] [141] <Figures/DTI_flowchart.pdf, id=2999, 438.43729pt x 162.4497pt>
 File: Figures/DTI_flowchart.pdf Graphic file (type pdf)
  <use Figures/DTI_flowchart.pdf>
 Package pdftex.def Info: Figures/DTI_flowchart.pdf used on input line 103.
@@ -1750,7 +1750,7 @@ Overfull \hbox (4.90303pt too wide) in paragraph at lines 121--125
 []\OT1/lmr/m/n/12 (-20) The model used here closely fol-lows that pro-posed orig-i-nally by Karampinos et al. [[]].
  []
 
-[143 <./Figures/DTI_flowchart.pdf>] [144] <Figures/FibersModel.pdf, id=3062, 1011.78pt x 722.7pt>
+[143 <./Figures/DTI_flowchart.pdf>] [144] <Figures/FibersModel.pdf, id=3067, 1011.78pt x 722.7pt>
 File: Figures/FibersModel.pdf Graphic file (type pdf)
  <use Figures/FibersModel.pdf>
 Package pdftex.def Info: Figures/FibersModel.pdf used on input line 179.
@@ -1760,7 +1760,7 @@ Overfull \hbox (10.08946pt too wide) in paragraph at lines 173--191
 []\OT1/lmr/m/n/12 (-20) The multi-compartment dif-fu-sion model used here is orig-i-nally pro-posed by K^^?arger [[]]
  []
 
-[145] [146 <./Figures/FibersModel.pdf>] [147] [148] <Figures/DTI_2compart.pdf, id=3141, 614.295pt x 622.325pt>
+[145] [146 <./Figures/FibersModel.pdf>] [147] [148] <Figures/DTI_2compart.pdf, id=3146, 614.295pt x 622.325pt>
 File: Figures/DTI_2compart.pdf Graphic file (type pdf)
  <use Figures/DTI_2compart.pdf>
 Package pdftex.def Info: Figures/DTI_2compart.pdf used on input line 302.
@@ -1770,22 +1770,22 @@ Underfull \hbox (badness 4595) in paragraph at lines 331--332
 []\OT1/lmr/m/n/10 (+20) significant dif-fer-ence be-tween pre- and post-
  []
 
-<Figures/KargerPlots.pdf, id=3263, 711.93518pt x 420.19754pt>
+<Figures/KargerPlots.pdf, id=3268, 711.93518pt x 420.19754pt>
 File: Figures/KargerPlots.pdf Graphic file (type pdf)
  <use Figures/KargerPlots.pdf>
 Package pdftex.def Info: Figures/KargerPlots.pdf used on input line 346.
 (pdftex.def)             Requested size: 458.91493pt x 270.86824pt.
- [151] [152 <./Figures/KargerPlots.pdf>] [153] [154] [155] [156] [157] [158] <Figures/STEAM_Phantom.pdf, id=3384, 773.28903pt x 549.25201pt>
+ [151] [152 <./Figures/KargerPlots.pdf>] [153] [154] [155] [156] [157] [158] <Figures/STEAM_Phantom.pdf, id=3389, 773.28903pt x 549.25201pt>
 File: Figures/STEAM_Phantom.pdf Graphic file (type pdf)
  <use Figures/STEAM_Phantom.pdf>
 Package pdftex.def Info: Figures/STEAM_Phantom.pdf used on input line 493.
 (pdftex.def)             Requested size: 413.02063pt x 293.35664pt.
- [159] [160 <./Figures/STEAM_Phantom.pdf>] <Figures/STEAM_EV.pdf, id=3422, 794.97pt x 303.534pt>
+ [159] [160 <./Figures/STEAM_Phantom.pdf>] <Figures/STEAM_EV.pdf, id=3427, 794.97pt x 303.534pt>
 File: Figures/STEAM_EV.pdf Graphic file (type pdf)
  <use Figures/STEAM_EV.pdf>
 Package pdftex.def Info: Figures/STEAM_EV.pdf used on input line 516.
 (pdftex.def)             Requested size: 413.02063pt x 157.70427pt.
- <Figures/RPBM_fit.pdf, id=3426, 829.0975pt x 417.56pt>
+ <Figures/RPBM_fit.pdf, id=3431, 829.0975pt x 417.56pt>
 File: Figures/RPBM_fit.pdf Graphic file (type pdf)
  <use Figures/RPBM_fit.pdf>
 Package pdftex.def Info: Figures/RPBM_fit.pdf used on input line 554.
@@ -1808,7 +1808,7 @@ Chapter 7.
 
 ]) [166]
 Appendix A.
-<IRB.pdf, id=3512, 614.295pt x 794.97pt>
+<IRB.pdf, id=3517, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf>
 Package pdftex.def Info: IRB.pdf used on input line 263.
@@ -1817,7 +1817,7 @@ File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf>
 Package pdftex.def Info: IRB.pdf used on input line 263.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <IRB.pdf, id=3515, page=1, 614.295pt x 794.97pt>
+ <IRB.pdf, id=3520, page=1, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 1>
 Package pdftex.def Info: IRB.pdf, page1 used on input line 263.
@@ -1837,7 +1837,7 @@ Package pdftex.def Info: IRB.pdf, page1 used on input line 263.
  [167
 
 
-] <IRB.pdf, id=3520, page=2, 614.295pt x 794.97pt>
+] <IRB.pdf, id=3525, page=2, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 2>
 Package pdftex.def Info: IRB.pdf, page2 used on input line 263.
@@ -1861,7 +1861,7 @@ Package hyperref Warning: bookmark level for unknown backmatter defaults to 0.
 
 [170
 
-] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182] [183]) [184]
+] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]) [183]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 285.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 285.
  (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.aux (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template_frontmatter.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter1.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter2.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter3.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter4.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter5.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter6.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter7.aux))
@@ -1878,19 +1878,19 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 285.
 ### semi simple group (level 1) entered at line 129 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 32970 strings out of 493089
- 642817 string characters out of 6134842
- 729465 words of memory out of 5000000
+ 32971 strings out of 493089
+ 642831 string characters out of 6134842
+ 728467 words of memory out of 5000000
  34904 multiletter control sequences out of 15000+600000
- 218808 words of font info for 279 fonts, out of 8000000 for 9000
+ 218935 words of font info for 280 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  64i,27n,60p,10397b,17965s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri12.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.pdf (203 pages, 62023002 bytes).
+Output written on /Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.pdf (202 pages, 62024146 bytes).
 PDF statistics:
  4074 PDF objects out of 4296 (max. 8388607)
- 3299 compressed objects within 33 object streams
- 655 named destinations out of 1000 (max. 500000)
+ 3300 compressed objects within 33 object streams
+ 654 named destinations out of 1000 (max. 500000)
  60258 words of extra memory for PDF output out of 61914 (max. 10000000)
 
