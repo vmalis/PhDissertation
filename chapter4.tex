@@ -269,7 +269,7 @@ The latter paper performed 3D volume acquisition with undersampling in the $k_y$
 In order to leverage the undersampling in the slice direction, a fairly high number of partitions is required (e.g. $\Rightarrow 32$) that results, for the best acceleration factor reported in the latter paper ($\sim \times 6.4$), in scan times of $\sim \SI{2}{\minute}~\SI{46}{\second}$. 
 Admittedly, the optimum approach for 3D strain rate tensor computation is to acquire in 3D with 3 directional velocity encoding to cover the entire muscle. 
 However, the long acquisition time of the 3D sequence even with ($\sim \times 6.4$) undersampling~\cite{RNCS11} limits its application with regards to the goal of the current work to reduce the acquisitions to less than a minute. 
-Further, earlier experimental observation was~\cite{Malis:2018fr}, that with appropriate orientation of the acquisition slice in the plane of the muscle fibers (e.g., oblique sagittal for the medial gastrocnemius), 5 contiguous slices of $\SI{5}{\milli\meter}$ thickness allows the extraction of the 3D strain/strain rate (SR) tensor in 3 slices and this is sufficient to capture the spatial variation of the 3D strain tensor along the length of the muscle. 
+Further, earlier experimental observation was~\cite{Malis:2018fr}, that with appropriate orientation of the acquisition slice in the plane of the muscle fibers (e.g., oblique sagittal for the medial gastrocnemius), 5 contiguous slices of $\SI{5}{\milli\meter}$ thickness allows the extraction of the 3D strain~/~strain rate (SR) tensor in 3 slices and this is sufficient to capture the spatial variation of the 3D strain tensor along the length of the muscle. 
 %-new paragraph-%
 
 %-new paragraph-%
@@ -291,7 +291,7 @@ Calf muscle tissue motion (velocity and strain rate) under isometric contraction
 %---------------------------------------------------------
 The VEPC pulse sequence with 3 directional velocity encoding and the reference (without any velocity encoding) shown in Figure~\ref{fig: VEPC} was modified for random undersampling with a different random pattern along the $k_y$ direction at each temporal frame. 
 The reference VEPC sequence was implemented with 4 views per segment that resulted in an acquired temporal resolution of $\SI{285}{\milli\second}$  ($\sim 8$ acquired frames for the contraction cycle duration of $\SI{2.3}{\second}$); this acquired data was then interpolated using view sharing to reconstruct 17 temporal frames. 
-As part of this study, both CS acceleration factors and views per segment were modified to reduce scan time while maintaining/increasing the acquired temporal resolution.
+As part of this study, both CS acceleration factors and views per segment were modified to reduce scan time while maintaining~/~increasing the acquired temporal resolution.
 %---------------------------------------------------------
 \subsubsection{Compressed sensing}
 %---------------------------------------------------------
@@ -313,7 +313,7 @@ Here $k$ is the magnitude of $k_y$ with the maximum and minimum values of $k_y$ 
 \vspace{+0.2cm}
 \centering
 \includegraphics[width=0.9\textwidth]{Figures/CS1_1.pdf}
-\caption[The probability density function, two times undersampled pattern for selected temporal frames and combined phase encode/temporal frame undersampling pattern]{The PDF from which the random undersampled phase encode (PE) pattern is drawn (a); CS\textit{-factor} $\times 2$ undersampling pattern for selected temporal frames with different patterns for each: black indicates not acquired, white indicates the acquired PE line (b); combined phase encode/temporal frame undersampling pattern (c).}
+\caption[The probability density function, two times undersampled pattern for selected temporal frames and combined phase encode~/~temporal frame undersampling pattern]{The PDF from which the random undersampled phase encode (PE) pattern is drawn (a); CS\textit{-factor} $\times 2$ undersampling pattern for selected temporal frames with different patterns for each: black indicates not acquired, white indicates the acquired PE line (b); combined phase encode~/~temporal frame undersampling pattern (c).}
 \label{fig: CS2}
 \end{figure}
 %*********************************************************
@@ -428,7 +428,7 @@ Three tubes (diameter of 1cm) with constant flow were wound around a static wate
 \end{figure}
 %*********************************************************
 Axial slices were acquired ensuring that the flow through the tubes was orthogonal to the plane of the image. 
-The static/flow phantom was imaged with the full \mbox{\textit{k-}space} acquisition and with the undersampled acquisitions (eight different combinations of CS acceleration factors and views per segment). 
+The static~/~flow phantom was imaged with the full \mbox{\textit{k-}space} acquisition and with the undersampled acquisitions (eight different combinations of CS acceleration factors and views per segment). 
 Three different in-flow velocities were set for the phantom: 2.5, 5 and $\SI{7.5}{\centi\meter/\second}$ and verified using the flowmeter~1G08~R3 (Cole-Parmer, IL, USA) resulting in 6 different (3 velocity magnitudes $\times$ 2 opposite directions $= 6$) flow velocities available for measurements using VEPC images.
 %---------------------------------------------------------
 \subsubsection{\textit{In-vivo} human subject imaging: }
@@ -487,7 +487,7 @@ In order to ensure that the same anatomic region was sampled, each pixel in the 
 Tracking was performed in 2D using the in-plane velocity information. 
 The position in a subsequent frame was calculated based on the velocity information in the current frame. 
 This allowed automated placement of an ROI in each frame that moved synchronously with the underlying anatomy. 
-ROIs changed both location and shape (5 to 20\% in successive frames) but the number of points was kept constant to ensure average values were based on the same number of points/frame. 
+ROIs changed both location and shape (5 to 20\% in successive frames) but the number of points was kept constant to ensure average values were based on the same number of points~/~frame. 
 Bland-Altman analysis was performed on strain rate data comparing that derived from reference full \mbox{\textit{k-}space} values to that obtained from undersampled sequences.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \subsection{Results}
@@ -660,7 +660,7 @@ The good agreement between the $v_y$ values from the reference and undersampled 
 
 %-new paragraph-%
 One of the goals of velocity mapping is to derive the strain or strain rate tensor to study muscle kinematics. 
-It is important to note that both strain and strain rate are sensitive to noise as spatial gradients are calculated from the velocity or displacement maps to extract strain/strain rate; the use of the anisotropic diffusion filter to denoise was critical to the calculation of the strain rate maps (Figure~\ref{fig: CSS3}). 
+It is important to note that both strain and strain rate are sensitive to noise as spatial gradients are calculated from the velocity or displacement maps to extract strain~/~strain rate; the use of the anisotropic diffusion filter to denoise was critical to the calculation of the strain rate maps (Figure~\ref{fig: CSS3}). 
 Figure~\ref{fig: CS9} shows strain rate images (absolute values at the peak value in the contraction phase) calculated from the velocity maps acquired with different combinations of CS and VPS factors; SR image quality is maintained at the highest acceleration factors. 
 %*********************************************************
 \begin{figure}[!htb]
@@ -722,7 +722,7 @@ The current work extends the $k_y$\textit{-t} SPARSE SENSE method to 3 direction
 It should be noted, that for the current study, the imaging plane was chosen such that the medial gastrocnemius fibers were in the imaging plane. 
 This ensured that the velocity perpendicular to the slice was close to zero and it should thus be possible to obtain the velocity information with 2 directional velocity encoding. 
 However, a 3 directional velocity encoding was implemented as it is not always possible to choose the slice orientation to be in the plane of the muscle fibers.
-The goal of the undersampled VEPC reported here is to enable the sequential acquisition of 3-5 slices to extract the full $3 \times 3$ strain/strain rate tensor. 
+The goal of the undersampled VEPC reported here is to enable the sequential acquisition of 3-5 slices to extract the full $3 \times 3$ strain~/~strain rate tensor. 
 The reduction in scan time per slice will translate in the ability to image several slices. 
 %-new paragraph-%
 
@@ -816,7 +816,7 @@ Data acquisition and image processing pipeline are summarized in Figure~\ref{fig
 \vspace{+0.2cm}
 \centering
 \includegraphics[scale=0.85]{Figures/CS2_1.pdf}
-\caption[Pipeline of data acquisition and image processing for 3D strain/strain rate using undersampled VEPC sequence]{Pipeline of data acquisition and image processing for 3D strain/strain rate using undersampled VEPC sequence.}
+\caption[Pipeline of data acquisition and image processing for 3D strain~/~strain rate using undersampled VEPC sequence]{Pipeline of data acquisition and image processing for 3D strain~/~strain rate using undersampled VEPC sequence.}
 \label{fig: CSYO1}
 \end{sidewaysfigure}
 %*********************************************************
@@ -876,7 +876,7 @@ Figure~\ref{fig: CSYO4} shows colormaps of the diagonal components of SR in the 
 \end{sidewaysfigure}
 %*********************************************************
 Much smaller values of SR are seen in the fiber frame of reference and differences between young and senior are less than for components in principle frame. 
-Table~\ref{tab: CSYO1} lists only the strain and strain rate indices (ROIs placed in the MG and Soleus) that were either significantly different between age groups and/or \%MVIC; no significant age*MVIC effect was seen.
+Table~\ref{tab: CSYO1} lists only the strain and strain rate indices (ROIs placed in the MG and Soleus) that were either significantly different between age groups and~/~or \%MVIC; no significant age*MVIC effect was seen.
 %=========================================================
 \begin{table}[!htb]
 \vspace{+0.2cm}
@@ -931,7 +931,7 @@ The in-plane strain and $SR_\mathrm{in-plane}$ reflect the deformation in the fi
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \subsection{Conclusions}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Compressed sensing VE-PC enables dynamic acquisition of multi-slice/multiple levels of sub-maximal contraction in young and senior subjects. 
+Compressed sensing VE-PC enables dynamic acquisition of multi-slice~/~multiple levels of sub-maximal contraction in young and senior subjects. 
 Significant differences with age seen in shear strains and in shear strain rates imply that the significant remodeling with age may occur in the extracellular matrix which could be a contributor to force loss. 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \section{Acknowledgments}
@@ -941,5 +941,5 @@ The author of the dissertation was the primary author of this paper.
 %-new paragraph-%
 
 %-new paragraph-%
-Section~\ref{sec: CS_SRYO} is a reprint of material, with minor edits as it appears in: V.~Malis, U.~Sinha, and S.~Sinha, ``Principal Axis and Fiber Aligned 3D Strain / Strain Rate Mapping with Compressed Sensing Velocity Encoded Phase Contrast MRI to study Aging Muscle,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Sydney, 2020.
+Section~\ref{sec: CS_SRYO} is a reprint of material, with minor edits as it appears in: V.~Malis, U.~Sinha, and S.~Sinha, ``Principal Axis and Fiber Aligned 3D Strain~/~Strain Rate Mapping with Compressed Sensing Velocity Encoded Phase Contrast MRI to study Aging Muscle,'' \emph{Proceedings of the International Society of Magnetic Resonance in Medicine}, Sydney, 2020.
 The author of the dissertation was the primary author of this abstract.
