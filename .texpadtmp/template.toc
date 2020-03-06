@@ -103,5 +103,5 @@
 \contentsline {subsection}{\numberline {6.2.5}Conclusions}{164}{subsection.6.2.5}
 \contentsline {section}{\numberline {6.3}Acknowledgments}{164}{section.6.3}
 \contentsline {chapter}{\numberline {Chapter\nobreakspace {}7}Conclusion: Summary of the Developed Methods and Application in Future Studies.}{165}{chapter.7}
-\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Institutional Review Board Approval}{167}{appendix.A}
-\contentsline {backmatter}{Bibliography}{170}{appendix*.118}
+\contentsline {chapter}{\numberline {Appendix\nobreakspace {}A}Institutional Review Board Approval}{169}{appendix.A}
+\contentsline {backmatter}{Bibliography}{172}{appendix*.118}

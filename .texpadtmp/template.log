@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 MAR 2020 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 MAR 2020 02:31
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,7 +1183,7 @@ Chapter 1.
 File: Figures/FIBER.pdf Graphic file (type pdf)
  <use Figures/FIBER.pdf>
 Package pdftex.def Info: Figures/FIBER.pdf used on input line 19.
-(pdftex.def)             Requested size: 326.78748pt x 297.90771pt.
+(pdftex.def)             Requested size: 285.9484pt x 260.67778pt.
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 24.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1806,9 +1806,9 @@ Chapter 7.
 
 
 
-]) [166]
+] [166] [167]) [168]
 Appendix A.
-<IRB.pdf, id=3517, 614.295pt x 794.97pt>
+<IRB.pdf, id=3526, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf>
 Package pdftex.def Info: IRB.pdf used on input line 263.
@@ -1817,7 +1817,7 @@ File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf>
 Package pdftex.def Info: IRB.pdf used on input line 263.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- <IRB.pdf, id=3520, page=1, 614.295pt x 794.97pt>
+ <IRB.pdf, id=3529, page=1, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 1>
 Package pdftex.def Info: IRB.pdf, page1 used on input line 263.
@@ -1834,10 +1834,10 @@ File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 1>
 Package pdftex.def Info: IRB.pdf, page1 used on input line 263.
 (pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
- [167
+ [169
 
 
-] <IRB.pdf, id=3525, page=2, 614.295pt x 794.97pt>
+] <IRB.pdf, id=3534, page=2, 614.295pt x 794.97pt>
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 2>
 Package pdftex.def Info: IRB.pdf, page2 used on input line 263.
@@ -1850,18 +1850,18 @@ File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 1>
 Package pdftex.def Info: IRB.pdf, page1 used on input line 263.
 (pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
- [168 <./IRB.pdf>]
+ [170 <./IRB.pdf>]
 File: IRB.pdf Graphic file (type pdf)
  <use IRB.pdf, page 2>
 Package pdftex.def Info: IRB.pdf, page2 used on input line 263.
 (pdftex.def)             Requested size: 522.15321pt x 675.72769pt.
- [169 <./IRB.pdf>] (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.bbl
+ [171 <./IRB.pdf>] (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.bbl
 
 Package hyperref Warning: bookmark level for unknown backmatter defaults to 0.
 
-[170
+[172
 
-] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]) [183]
+] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184]) [185]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 285.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 285.
  (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.aux (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template_frontmatter.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter1.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter2.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter3.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter4.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter5.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter6.aux) (/Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/chapter7.aux))
@@ -1878,19 +1878,19 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 285.
 ### semi simple group (level 1) entered at line 129 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 32971 strings out of 493089
- 642831 string characters out of 6134842
- 728467 words of memory out of 5000000
+ 32973 strings out of 493089
+ 642847 string characters out of 6134842
+ 728466 words of memory out of 5000000
  34904 multiletter control sequences out of 15000+600000
  218935 words of font info for 280 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  64i,27n,60p,10397b,17965s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri12.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.pdf (202 pages, 62024146 bytes).
+Output written on /Users/vadmalis/Desktop/Dissertation/Disser/PhDissertation/.texpadtmp/template.pdf (204 pages, 62027766 bytes).
 PDF statistics:
- 4074 PDF objects out of 4296 (max. 8388607)
- 3300 compressed objects within 33 object streams
- 654 named destinations out of 1000 (max. 500000)
+ 4084 PDF objects out of 4296 (max. 8388607)
+ 3307 compressed objects within 34 object streams
+ 656 named destinations out of 1000 (max. 500000)
  60258 words of extra memory for PDF output out of 61914 (max. 10000000)
 
