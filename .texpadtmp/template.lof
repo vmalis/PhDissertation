@@ -1,60 +1,63 @@
+\select@language {russian}
+\select@language {english}
+\select@language {english}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Skeletal muscle extracellular matrix}}{2}{figure.caption.10}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Skeletal muscle extracellular matrix}}{2}{figure.caption.9}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Hard pulse approximation}}{16}{figure.caption.13}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Spectral Spatial RF-pulse}}{19}{figure.caption.16}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Precession of protons in the magnetic field with the spatial linear gradient}}{21}{figure.caption.17}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Trapezoid gradient shape}}{22}{figure.caption.18}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Accumulated phase due to applied gradient}}{23}{figure.caption.20}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Hard pulse approximation}}{16}{figure.caption.12}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Spectral Spatial RF-pulse}}{19}{figure.caption.15}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Precession of protons in the magnetic field with the spatial linear gradient}}{21}{figure.caption.16}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Trapezoid gradient shape}}{22}{figure.caption.17}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Accumulated phase due to applied gradient}}{23}{figure.caption.19}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Flow encoding and flow compensating gradient schemes}}{28}{figure.caption.23}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Layout of the velocity encoded phase-contrast MR pulse sequence}}{29}{figure.caption.24}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Dynamic MR imaging experiment setup}}{31}{figure.caption.25}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Schematic of strain rate in principal axes and shear strain in muscle during isometric contraction.}}{40}{figure.caption.29}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Strain rate tensor eigenvalue colormaps pre- and post-suspension}}{44}{figure.caption.32}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces The temporal variation of the SR-fiber angle and $SR_\mathrm {out-plane}$ with isometric contraction for the pre- and post-suspension cohort}}{45}{figure.caption.33}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces The temporal variation of the SR eigenvalues and normal strain $SR_{cc}$ with isometric contraction for the pre- and post-suspension cohorts for three regions}}{46}{figure.caption.34}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Streamlines of strain rate tensor negative eigenvectors for one slice of the same subject pre- and post-suspension at the peak of contraction phase}}{47}{figure.caption.35}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces The temporal variation of the strain rate indices in the muscle fiber basis with isometric contractions for the pre- and post-suspension cohorts in three regions}}{48}{figure.caption.36}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Schematic of a muscle fiber and endomysium with the principal basis and fiber basis}}{62}{figure.caption.47}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Pipeline of the strain rate analysis with associated uncertainties in the computed values}}{62}{figure.caption.49}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Strain rate maps of the normal and shear strain rates in a young and senior subject at the same force level}}{64}{figure.caption.52}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Strain rate maps of the normal and shear strain rates in a young and senior subject at the peak force level}}{65}{figure.caption.53}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces The temporal variation of the SR tensor indices with isometric contraction for the young and senior subjects}}{66}{figure.caption.54}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Flow encoding and flow compensating gradient schemes}}{28}{figure.caption.22}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Layout of the velocity encoded phase-contrast MR pulse sequence}}{29}{figure.caption.23}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Dynamic MR imaging experiment setup}}{31}{figure.caption.24}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Schematic of strain rate in principal axes and shear strain in muscle during isometric contraction.}}{40}{figure.caption.28}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Strain rate tensor eigenvalue colormaps pre- and post-suspension}}{44}{figure.caption.31}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces The temporal variation of the SR-fiber angle and $SR_\mathrm {out-plane}$ with isometric contraction for the pre- and post-suspension cohort}}{45}{figure.caption.32}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The temporal variation of the SR eigenvalues and normal strain $SR_{cc}$ with isometric contraction for the pre- and post-suspension cohorts for three regions}}{46}{figure.caption.33}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Streamlines of strain rate tensor negative eigenvectors for one slice of the same subject pre- and post-suspension at the peak of contraction phase}}{47}{figure.caption.34}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces The temporal variation of the strain rate indices in the muscle fiber basis with isometric contractions for the pre- and post-suspension cohorts in three regions}}{48}{figure.caption.35}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Schematic of a muscle fiber and endomysium with the principal basis and fiber basis}}{61}{figure.caption.46}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Pipeline of the strain rate analysis with associated uncertainties in the computed values}}{61}{figure.caption.48}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Strain rate maps of the normal and shear strain rates in a young and senior subject at the same force level}}{63}{figure.caption.51}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Strain rate maps of the normal and shear strain rates in a young and senior subject at the peak force level}}{64}{figure.caption.52}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces The temporal variation of the SR tensor indices with isometric contraction for the young and senior subjects}}{65}{figure.caption.53}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces MRI image reconstructed from top 2.5\% of its wavelet coefficients}}{76}{figure.caption.59}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Incoherence between wavelet and Fourier domains}}{79}{figure.caption.62}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces The probability density function, two times undersampled pattern for selected temporal frames and combined phase encode\nobreakspace {}/\nobreakspace {}temporal frame undersampling pattern}}{86}{figure.caption.66}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces The $k_y$\textit {-t} SPARSE SENSE acquisition and reconstruction pipeline}}{87}{figure.caption.67}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Rendering of the constant flow phantom and optimization plots}}{91}{figure.caption.69}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Averaged force curve for the fully sampled acquisition and undersampled acquisition}}{95}{figure.caption.73}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Velocity maps before and after 2D anisotropic diffusion filter}}{96}{figure.caption.74}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Selected frames of phase images for the direction of maximum velocity before and after correction for phase shading artifacts}}{96}{figure.caption.75}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Magnitude images and images after performing a temporal FFT and a temporal PCA transformations}}{97}{figure.caption.76}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Bland-Altman plots for velocity measurements for the constant flow phantom}}{99}{figure.caption.77}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Optimization of the compressed sensing parameters in human subject}}{100}{figure.caption.78}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Velocity colormaps of the constant flow phantom at five temporal frames}}{101}{figure.caption.80}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Selected frames of magnitude images reconstructed from the fully-sampled, undersampled \unhbox \voidb@x \hbox {\textit {k-}space} with factors 4 and 6}}{102}{figure.caption.81}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Velocity colormaps for all three orthogonal directions in the oblique sagittal section through the calf muscles}}{104}{figure.caption.82}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Velocity $v_y$ plots as a function of the isometric contraction for scans acquired with 8 different VPS/\unhbox \voidb@x \hbox {CS\textit {-factor}}}}{105}{figure.caption.83}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Absolute value strain rate tensor eigenvalue colormaps derived from velocity images for 4 different combinations of VPS/\unhbox \voidb@x \hbox {CS\textit {-factor}}}}{106}{figure.caption.84}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Bland-Altman plots for the peak $SR_\mathrm {fiber}$ values during the contraction part of the cycle for 6 different combinations of VPS/\unhbox \voidb@x \hbox {CS\textit {-factor}}}}{107}{figure.caption.85}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Pipeline of data acquisition and image processing for 3D strain\nobreakspace {}/\nobreakspace {}strain rate using undersampled VEPC sequence}}{115}{figure.caption.87}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Colormaps of the two strain rate eigenvalues $SR_\mathrm {fiber}$, $SR_\mathrm {in-plane}$ and invariant $SR_{fc\_\tmspace +\thinmuskip {.1667em}\mathrm {max}}$ at 30\% and 60\% MVIC effort for one young and one senior subject}}{117}{figure.caption.88}
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Colormaps of the diagonal components of strain rate tensor in the fiber reference frame for one young and one senior subjects at two different levels of MVIC}}{119}{figure.caption.89}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces MRI image reconstructed from top 2.5\% of its wavelet coefficients}}{75}{figure.caption.58}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Incoherence between wavelet and Fourier domains}}{78}{figure.caption.61}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The probability density function, two times undersampled pattern for selected temporal frames and combined phase encode~/~temporal frame undersampling pattern}}{85}{figure.caption.65}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The $k_y$\textit {-t} SPARSE SENSE acquisition and reconstruction pipeline}}{86}{figure.caption.66}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Rendering of the constant flow phantom and optimization plots}}{90}{figure.caption.68}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Averaged force curve for the fully sampled acquisition and undersampled acquisition}}{94}{figure.caption.72}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Velocity maps before and after 2D anisotropic diffusion filter}}{95}{figure.caption.73}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Selected frames of phase images for the direction of maximum velocity before and after correction for phase shading artifacts}}{95}{figure.caption.74}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Magnitude images and images after performing a temporal FFT and a temporal PCA transformations}}{96}{figure.caption.75}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Bland-Altman plots for velocity measurements for the constant flow phantom}}{98}{figure.caption.76}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Optimization of the compressed sensing parameters in human subject}}{99}{figure.caption.77}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Velocity colormaps of the constant flow phantom at five temporal frames}}{100}{figure.caption.79}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Selected frames of magnitude images reconstructed from the fully-sampled, undersampled \unhbox \voidb@x \hbox {\textit {k-}space} with factors 4 and 6}}{101}{figure.caption.80}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Velocity colormaps for all three orthogonal directions in the oblique sagittal section through the calf muscles}}{102}{figure.caption.81}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Velocity $v_y$ plots as a function of the isometric contraction for scans acquired with 8 different VPS/\unhbox \voidb@x \hbox {CS\textit {-factor}}}}{103}{figure.caption.82}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Absolute value strain rate tensor eigenvalue colormaps derived from velocity images for 4 different combinations of VPS/\unhbox \voidb@x \hbox {CS\textit {-factor}}}}{105}{figure.caption.83}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Bland-Altman plots for the peak $SR_\mathrm {fiber}$ values during the contraction part of the cycle for 6 different combinations of VPS/\unhbox \voidb@x \hbox {CS\textit {-factor}}}}{106}{figure.caption.84}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Pipeline of data acquisition and image processing for 3D strain~/~strain rate using undersampled VEPC sequence}}{114}{figure.caption.86}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Colormaps of the two strain rate eigenvalues $SR_\mathrm {fiber}$, $SR_\mathrm {in-plane}$ and invariant $SR_{fc\_\tmspace +\thinmuskip {.1667em}\mathrm {max}}$ at 30\% and 60\% MVIC effort for one young and one senior subject}}{116}{figure.caption.87}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Colormaps of the diagonal components of strain rate tensor in the fiber reference frame for one young and one senior subjects at two different levels of MVIC}}{117}{figure.caption.88}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Diffusion-weightning gradients in spin-echo and gradient echo pulse sequences}}{127}{figure.caption.92}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Visual representation of the diffusion tensor in the isotropic and anisotropic cases}}{129}{figure.caption.93}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Spin-echo diffusion weighted EPI sequence and \textit {k}-space sampling path}}{130}{figure.caption.94}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Spin-phase evolution diagram for the MR pulse sequence with three RF-pulses}}{132}{figure.caption.95}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Plot of STEAM pulse sequence programmed for GE scanner}}{134}{figure.caption.96}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Diffusion-weightning gradients in spin-echo and gradient echo pulse sequences}}{125}{figure.caption.91}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Visual representation of the diffusion tensor in the isotropic and anisotropic cases}}{127}{figure.caption.92}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Spin-echo diffusion weighted EPI sequence and \textit {k}-space sampling path}}{128}{figure.caption.93}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Spin-phase evolution diagram for the MR pulse sequence with three RF-pulses}}{130}{figure.caption.94}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Plot of STEAM pulse sequence programmed for GE scanner}}{132}{figure.caption.95}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces The image processing flowchart showing the sequence of steps leading to the extraction of the diffusion tensor indices}}{143}{figure.caption.104}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Schematic of muscle fibers and endomaysium matrix}}{146}{figure.caption.108}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces The parametric maps extracted from the diffusion tensor}}{150}{figure.caption.109}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Individual plots of the DTI indices pre- and post-suspension}}{152}{figure.caption.112}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI image sequence at two diffusion times}}{160}{figure.caption.113}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Diffusion tensor eigenvalues grayscale maps at two values of mixing time for a young and a senior subject}}{161}{figure.caption.114}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces RPBM model fit to the time dependence of diffusion indices for a young and senior subjects}}{163}{figure.caption.116}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The image processing flowchart showing the sequence of steps leading to the extraction of the diffusion tensor indices}}{141}{figure.caption.103}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Schematic of muscle fibers and endomaysium matrix}}{144}{figure.caption.107}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The parametric maps extracted from the diffusion tensor}}{148}{figure.caption.108}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Individual plots of the DTI indices pre- and post-suspension}}{150}{figure.caption.111}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Baseline magnitude images and FA colormaps of water phantom acquired with STEAM-EPI DTI image sequence at two diffusion times}}{158}{figure.caption.112}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Diffusion tensor eigenvalues grayscale maps at two values of mixing time for a young and a senior subject}}{159}{figure.caption.113}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces RPBM model fit to the time dependence of diffusion indices for a young and senior subjects}}{160}{figure.caption.115}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

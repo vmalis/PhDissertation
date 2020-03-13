@@ -191,10 +191,11 @@ NCG method is summarized in the following outline:
 
 %-new paragraph-%
 \noindent \begin{samepage} \textbf{NCG outline} \\
+\noindent\rule{15cm}{0.4pt} \\
 %+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \indent \qquad \qquad \textit{input:} \, $f(\mathbf{I})$ - cost function, $\alpha$, $\beta$ - line search parameters\\ 
 \indent \qquad \qquad \textit{output:} $\mathbf{I}$ - reconstructed image\\
-\noindent\rule{15cm}{0.4pt} \\
+\noindent\rule{15cm}{1pt} \\
 $n=0$ \quad $I_0 = 0$ 
 \begin{itemize}
 	%\renewcommand{\labelitemi}{\scriptsize$-$}
@@ -226,7 +227,7 @@ $n=0$ \quad $I_0 = 0$
 	\item $n=n+1$ 
 \end{itemize}
 \textbf{end} \\
-\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{1pt}
 \end{samepage}\\
 \newpage
 
@@ -497,7 +498,7 @@ Figure~\ref{fig: CSS2} shows, for one example subject, the average of the force 
 \begin{figure}[!htb]
 \vspace{+0.2cm}
 \centering
-\includegraphics[width=\textwidth]{Figures/CS1_4.pdf}
+\includegraphics[width=0.9\textwidth]{Figures/CS1_4.pdf}
 \caption[Averaged force curve for the fully sampled acquisition and undersampled acquisition]{Averaged force curve with lower and upper boundary given as mean $\pm$ standard deviation for the fully sampled acquisition with 52 contractions cycles (left) and undersampled acquisition with 13 contractions cycles (right).}
 \label{fig: CSS2}
 \end{figure}
@@ -509,7 +510,7 @@ Figure~\ref{fig: CSS3} shows an example velocity (phase) image from an undersamp
 \begin{figure}[!htb]
 \vspace{+0.2cm}
 \centering
-\includegraphics[scale=0.17]{Figures/CS1_5.pdf}
+\includegraphics[scale=0.15]{Figures/CS1_5.pdf}
 \caption[Velocity maps before and after 2D anisotropic diffusion filter]{Velocity maps before (a) and after (b) 2D anisotropic diffusion filter was applied for the frame corresponding to the peak of contraction cycle. Image shown on the left was acquired with a VPS/\mbox{CS\textit{-factor}} of 2/4. Parameters of anisotropic diffusion filter: $\kappa = 2$ , $\Delta = 1/7$  and 10 iterations.}
 \label{fig: CSS3}
 \end{figure}
@@ -571,7 +572,7 @@ The optimization for the muscle data for the \mbox{CS\textit{-factor}} of 4 is s
 \begin{figure}[!hb]
 \vspace{+0.2cm}
 \centering
-\includegraphics[width=\textwidth]{Figures/CS1_9.pdf}
+\includegraphics[width=0.9\textwidth]{Figures/CS1_9.pdf}
 \caption[Optimization of the compressed sensing parameters in human subject]{Optimization of the CS parameters in human subject. Each column represents each of the three orthogonal directions: $x$, $y$ (in-plane) and $z$ (out of plane). The plots of the velocities (top row), bottom row is the root-mean-squared error (RMSE) for each of the velocities. Plots with few best combinations only are shown here.}
 \label{fig: CS5}
 \end{figure}
@@ -714,7 +715,7 @@ A recent study reported a compressed sensing accelerated 4D (3D spatial with 3 d
 The latter work reported acceleration factors of $\sim \times 6.4$ without loss of accuracy in velocity or in the derived strain rate maps. 
 3D acquisition enables higher acceleration factors but in order to realize the higher accelerations, it is important to have a large number of slices and this offsets the time gain from the higher acceleration factors. 
 For example, the undersampled 3D VEPC sequence discussed above reached an acceleration factor of $\sim \times 6.4$ for a 32-slice acquisition (scan time: $\SI{2}{\minute}$ $\SI{46}{\second}$)~\cite{RNCS11}. 
-The undersampled 2D VEPC sequence presented in the current study has an acceleration factor of 4 and is completed in $\SI{40}{\second}$.
+The undersampled 2D VEPC sequence presented in the current study has an acceleration factor of 4 and is completed~in~$\SI{40}{\second}$.
 %-new paragraph-%
 
 %-new paragraph-%

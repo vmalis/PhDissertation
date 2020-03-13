@@ -1,23 +1,26 @@
+\select@language {russian}
+\select@language {english}
+\select@language {english}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Magnetization vector response to Shinnar-Le Roux RF-pulses}}{18}{table.caption.14}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Magnetization vector response to Shinnar-Le Roux RF-pulses}}{18}{table.caption.13}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Force and morphological parameters for individual muscles of the plantarflexors pre- and post-suspension}}{43}{table.caption.30}
-\contentsline {table}{\numberline {3.2}{\ignorespaces Strain rate indices for pre- and post-suspension computed at the same force level of the contraction phase}}{50}{table.caption.37}
-\contentsline {table}{\numberline {3.3}{\ignorespaces Univariate and multivariable linear regression analysis of morphological and strain rate indices to the force output}}{51}{table.caption.39}
-\contentsline {table}{\numberline {3.4}{\ignorespaces Univariate linear regression analysis of changes in morphological and strain rate indices to the change in force output after unloading}}{52}{table.caption.40}
-\contentsline {table}{\numberline {3.5}{\ignorespaces Strain rate indices for young and senior cohort at same force level and at peak force}}{67}{table.caption.55}
-\contentsline {table}{\numberline {3.6}{\ignorespaces Univariate and multivariable linear regression analysis of parameters obtained at same force level with maximum volunteer isometric contraction}}{68}{table.caption.57}
-\contentsline {table}{\numberline {3.7}{\ignorespaces Univariate and multivariable linear regression analysis of parameters obtained at force peak with maximum volunteer isometric contraction}}{68}{table.caption.58}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Force and morphological parameters for individual muscles of the plantarflexors pre- and post-suspension}}{43}{table.caption.29}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Strain rate indices for pre- and post-suspension computed at the same force level of the contraction phase}}{49}{table.caption.36}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Univariate and multivariable linear regression analysis of morphological and strain rate indices to the force output}}{50}{table.caption.38}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Univariate linear regression analysis of changes in morphological and strain rate indices to the change in force output after unloading}}{51}{table.caption.39}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Strain rate indices for young and senior cohort at same force level and at peak force}}{66}{table.caption.54}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Univariate and multivariable linear regression analysis of parameters obtained at same force level with maximum volunteer isometric contraction}}{67}{table.caption.56}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Univariate and multivariable linear regression analysis of parameters obtained at force peak with maximum volunteer isometric contraction}}{67}{table.caption.57}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Reconstruction parameters obtained for imaging sequences with different undersampling factors}}{100}{table.caption.79}
-\contentsline {table}{\numberline {4.2}{\ignorespaces Parameters obtained from the Bland-Altman plots of peak strain rates for seven different combinations of views per segment and undersampling factors}}{107}{table.caption.86}
-\contentsline {table}{\numberline {4.3}{\ignorespaces Strain rate indices for two regions of interest in MG and SOL extracted at the the peak of the contraction}}{120}{table.caption.90}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Reconstruction parameters obtained for imaging sequences with different undersampling factors}}{99}{table.caption.78}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Parameters obtained from the Bland-Altman plots of peak strain rates for seven different combinations of views per segment and undersampling factors}}{104}{table.caption.85}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Strain rate indices for two regions of interest in MG and SOL extracted at the the peak of the contraction}}{118}{table.caption.89}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Tissue microstructural parameters from bicompartmental diffusion model}}{145}{table.caption.106}
-\contentsline {table}{\numberline {6.2}{\ignorespaces Diffusion tensor indices pre- and post-suspension}}{151}{table.caption.110}
-\contentsline {table}{\numberline {6.3}{\ignorespaces Diffusion eigenvalues at different mixing times}}{162}{table.caption.115}
-\contentsline {table}{\numberline {6.4}{\ignorespaces Parameters of muscle tissue extracted from the RPBM model}}{163}{table.caption.117}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Tissue microstructural parameters from bicompartmental diffusion model}}{143}{table.caption.105}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Diffusion tensor indices pre- and post-suspension}}{149}{table.caption.109}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Diffusion eigenvalues at different mixing times}}{160}{table.caption.114}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Parameters of muscle tissue extracted from the RPBM model}}{161}{table.caption.116}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
